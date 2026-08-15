@@ -29,7 +29,7 @@
             "last_commit": "2026-08-05T06:11:04Z",
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 313924
+            "stars": 314090
           }
         },
         {
@@ -43,7 +43,7 @@
             "last_commit": "2026-08-13T14:29:39Z",
             "owner": "lukasmasuch",
             "repo": "best-of-ml-python",
-            "stars": 23711
+            "stars": 23712
           }
         },
         {
@@ -71,7 +71,7 @@
             "last_commit": "2026-08-13T15:44:59Z",
             "owner": "ml-tooling",
             "repo": "best-of-python-dev",
-            "stars": 1295
+            "stars": 1296
           }
         }
       ],
@@ -91,7 +91,7 @@
             "last_commit": "2026-08-13T15:07:44Z",
             "owner": "lukasmasuch",
             "repo": "best-of-python",
-            "stars": 4562
+            "stars": 4563
           }
         },
         {
@@ -105,7 +105,7 @@
             "last_commit": "2026-08-13T15:07:44Z",
             "owner": "lukasmasuch",
             "repo": "best-of-python",
-            "stars": 4562
+            "stars": 4563
           }
         }
       ],
@@ -118,7 +118,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T15:06:37.684Z",
+    "last_updated": "2026-08-15T14:38:34.081Z",
     "original_repository": "lukasmasuch/best-of-python",
     "original_repository_sha": "5ed052274c3230b5239ba9ca988e3d4ae3aa8a93",
     "enhanced_repository": "enhansome/enhansome-best-of-python",
