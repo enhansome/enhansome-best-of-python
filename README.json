@@ -15,7 +15,7 @@
             "last_commit": "2026-08-16T13:31:43Z",
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 314884
+            "stars": 315095
           }
         },
         {
@@ -27,7 +27,7 @@
             "archived": false,
             "id": 317029148,
             "language": null,
-            "last_commit": "2026-08-13T14:29:39Z",
+            "last_commit": "2026-08-20T14:14:49Z",
             "owner": "lukasmasuch",
             "repo": "best-of-ml-python",
             "stars": 23722
@@ -45,7 +45,7 @@
             "last_commit": "2026-08-13T18:32:02Z",
             "owner": "ml-tooling",
             "repo": "best-of-web-python",
-            "stars": 2750
+            "stars": 2751
           }
         },
         {
@@ -57,7 +57,7 @@
             "archived": false,
             "id": 327929724,
             "language": "Python",
-            "last_commit": "2026-08-13T15:44:59Z",
+            "last_commit": "2026-08-20T14:33:23Z",
             "owner": "ml-tooling",
             "repo": "best-of-python-dev",
             "stars": 1296
@@ -78,10 +78,10 @@
             "archived": false,
             "id": 328766021,
             "language": null,
-            "last_commit": "2026-08-13T15:07:44Z",
+            "last_commit": "2026-08-20T13:54:55Z",
             "owner": "lukasmasuch",
             "repo": "best-of-python",
-            "stars": 4569
+            "stars": 4574
           }
         },
         {
@@ -93,10 +93,10 @@
             "archived": false,
             "id": 328766021,
             "language": null,
-            "last_commit": "2026-08-13T15:07:44Z",
+            "last_commit": "2026-08-20T13:54:55Z",
             "owner": "lukasmasuch",
             "repo": "best-of-python",
-            "stars": 4569
+            "stars": 4574
           }
         }
       ],
@@ -104,7 +104,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T14:53:06.825Z",
+    "last_updated": "2026-08-20T14:54:32.143Z",
     "original_repository": "lukasmasuch/best-of-python",
     "original_repository_id": 328766021,
     "original_repository_sha": "5ed052274c3230b5239ba9ca988e3d4ae3aa8a93",
