@@ -20,7 +20,7 @@
     <a href="https://twitter.com/mltooling" title="Follow on Twitter"><img src="https://img.shields.io/twitter/follow/mltooling.svg?style=social&label=Follow"></a>
 </p>
 
-This curated list contains 400 awesome open-source projects with a total of 2.1M stars grouped into 28 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/ml-tooling/best-of-python/issues/new/choose) ⭐ 4,616 | 🐛 51 | 📅 2026-10-01, submit a [pull request](https://github.com/ml-tooling/best-of-python/pulls) ⭐ 4,616 | 🐛 51 | 📅 2026-10-01, or directly edit the [projects.yaml](https://github.com/ml-tooling/best-of-python/edit/main/projects.yaml) ⭐ 4,616 | 🐛 51 | 📅 2026-10-01. Contributions are very welcome!
+This curated list contains 400 awesome open-source projects with a total of 2.1M stars grouped into 28 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/ml-tooling/best-of-python/issues/new/choose) ⭐ 4,617 | 🐛 52 | 📅 2026-10-01, submit a [pull request](https://github.com/ml-tooling/best-of-python/pulls) ⭐ 4,617 | 🐛 52 | 📅 2026-10-01, or directly edit the [projects.yaml](https://github.com/ml-tooling/best-of-python/edit/main/projects.yaml) ⭐ 4,617 | 🐛 52 | 📅 2026-10-01. Contributions are very welcome!
 
 ***
 
@@ -89,7 +89,7 @@ This curated list contains 400 awesome open-source projects with a total of 2.1M
 
 <details><summary><b><a href="https://github.com/protocolbuffers/protobuf">protobuf</a></b> (🥇39 ·  ⭐ 72K) - Protocol Buffers - Googles data interchange format. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-* [GitHub](https://github.com/protocolbuffers/protobuf) ⭐ 72,092 | 🐛 467 | 🌐 C++ | 📅 2026-10-03 (👨‍💻 1.5K · 🔀 16K · 📦 1M):
+* [GitHub](https://github.com/protocolbuffers/protobuf) ⭐ 72,096 | 🐛 466 | 🌐 C++ | 📅 2026-10-04 (👨‍💻 1.5K · 🔀 16K · 📦 1M):
 
   ```
   git clone https://github.com/protocolbuffers/protobuf
@@ -110,7 +110,7 @@ This curated list contains 400 awesome open-source projects with a total of 2.1M
 </details>
 <details><summary><b><a href="https://github.com/google/flatbuffers">flatbuffers</a></b> (🥇34 ·  ⭐ 27K) - FlatBuffers: Memory Efficient Serialization Library. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/google/flatbuffers) ⭐ 26,544 | 🐛 323 | 🌐 C++ | 📅 2026-09-14 (👨‍💻 780 · 🔀 3.7K · 📦 210K):
+* [GitHub](https://github.com/google/flatbuffers) ⭐ 26,548 | 🐛 326 | 🌐 C++ | 📅 2026-09-14 (👨‍💻 780 · 🔀 3.7K · 📦 210K):
 
   ```
   git clone https://github.com/google/flatbuffers
@@ -148,7 +148,7 @@ This curated list contains 400 awesome open-source projects with a total of 2.1M
 </details>
 <details><summary><b><a href="https://github.com/marshmallow-code/marshmallow">marshmallow</a></b> (🥈30 ·  ⭐ 7.2K) - A lightweight library for converting complex objects to and from.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/marshmallow-code/marshmallow) ⭐ 7,241 | 🐛 145 | 🌐 Python | 📅 2026-10-01 (👨‍💻 230 · 🔀 740 · 📦 230K):
+* [GitHub](https://github.com/marshmallow-code/marshmallow) ⭐ 7,241 | 🐛 144 | 🌐 Python | 📅 2026-10-01 (👨‍💻 230 · 🔀 740 · 📦 230K):
 
   ```
   git clone https://github.com/marshmallow-code/marshmallow
@@ -233,7 +233,7 @@ This curated list contains 400 awesome open-source projects with a total of 2.1M
 </details>
 <details><summary><b><a href="https://github.com/jsonpickle/jsonpickle">jsonpickle</a></b> (🥉26 ·  ⭐ 1.3K) - Python library for serializing any arbitrary object graph into.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-* [GitHub](https://github.com/jsonpickle/jsonpickle) ⭐ 1,321 | 🐛 29 | 🌐 Python | 📅 2026-10-02 (👨‍💻 91 · 🔀 180 · 📦 51K):
+* [GitHub](https://github.com/jsonpickle/jsonpickle) ⭐ 1,321 | 🐛 28 | 🌐 Python | 📅 2026-10-03 (👨‍💻 91 · 🔀 180 · 📦 51K):
 
   ```
   git clone https://github.com/jsonpickle/jsonpickle
@@ -314,7 +314,7 @@ This curated list contains 400 awesome open-source projects with a total of 2.1M
 </details>
 <details><summary>Show 3 hidden projects...</summary>
 
-* <b>[ultrajson](https://github.com/ultrajson/ultrajson) ⭐ 4,498 | 🐛 31 | 🌐 C++ | 📅 2026-10-01</b> (🥉24 ·  ⭐ 4.5K) - Ultra fast JSON decoder and encoder written in C with Python.. <code>❗Unlicensed</code>
+* <b>[ultrajson](https://github.com/ultrajson/ultrajson) ⭐ 4,498 | 🐛 31 | 🌐 C++ | 📅 2026-10-03</b> (🥉24 ·  ⭐ 4.5K) - Ultra fast JSON decoder and encoder written in C with Python.. <code>❗Unlicensed</code>
 * <b>[msgpack](https://github.com/msgpack/msgpack-python) ⭐ 2,107 | 🐛 13 | 🌐 Python | 📅 2026-10-02</b> (🥉26 ·  ⭐ 2.1K) - MessagePack serializer implementation for Python.. <code>❗Unlicensed</code>
 * <b>[pysimdjson](https://github.com/TkTech/pysimdjson) ⭐ 776 | 🐛 15 | 🌐 Python | 📅 2026-04-26</b> (🥉18 ·  ⭐ 710) - Python bindings for the simdjson project. <code>❗Unlicensed</code>
 
@@ -329,7 +329,7 @@ This curated list contains 400 awesome open-source projects with a total of 2.1M
 
 <details><summary><b><a href="https://github.com/pandas-dev/pandas">pandas</a></b> (🥇37 ·  ⭐ 50K) - Flexible and powerful data analysis / manipulation library for.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code> <code><img src="https://git.io/JLy1S" style="display:inline;" width="13" height="13"></code></summary>
 
-* [GitHub](https://github.com/pandas-dev/pandas) ⭐ 49,905 | 🐛 2,456 | 🌐 Python | 📅 2026-10-03 (👨‍💻 4.3K · 🔀 20K · 📦 2.9M):
+* [GitHub](https://github.com/pandas-dev/pandas) ⭐ 49,913 | 🐛 2,417 | 🌐 Python | 📅 2026-10-04 (👨‍💻 4.3K · 🔀 20K · 📦 2.9M):
 
   ```
   git clone https://github.com/pandas-dev/pandas
@@ -346,7 +346,7 @@ This curated list contains 400 awesome open-source projects with a total of 2.1M
 </details>
 <details><summary><b><a href="https://github.com/pydata/xarray">xarray</a></b> (🥇30 ·  ⭐ 4.2K) - N-D labeled arrays and datasets in Python. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/pydata/xarray) ⭐ 4,206 | 🐛 1,436 | 🌐 Python | 📅 2026-10-02 (👨‍💻 650 · 🔀 1.4K · 📦 46K):
+* [GitHub](https://github.com/pydata/xarray) ⭐ 4,206 | 🐛 1,433 | 🌐 Python | 📅 2026-10-04 (👨‍💻 650 · 🔀 1.4K · 📦 46K):
 
   ```
   git clone https://github.com/pydata/xarray
@@ -363,7 +363,7 @@ This curated list contains 400 awesome open-source projects with a total of 2.1M
 </details>
 <details><summary><b><a href="https://github.com/h5py/h5py">h5py</a></b> (🥇30 ·  ⭐ 2.2K) - HDF5 for Python -- The h5py package is a Pythonic interface to the HDF5.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-* [GitHub](https://github.com/h5py/h5py) ⭐ 2,254 | 🐛 346 | 🌐 Python | 📅 2026-10-01 (👨‍💻 220 · 🔀 560 · 📦 360K):
+* [GitHub](https://github.com/h5py/h5py) ⭐ 2,254 | 🐛 347 | 🌐 Python | 📅 2026-10-01 (👨‍💻 220 · 🔀 560 · 📦 360K):
 
   ```
   git clone https://github.com/h5py/h5py
@@ -397,7 +397,7 @@ This curated list contains 400 awesome open-source projects with a total of 2.1M
 </details>
 <details><summary><b><a href="https://github.com/zarr-developers/zarr-python">zarr</a></b> (🥈28 ·  ⭐ 2.1K) - An implementation of chunked, compressed, N-dimensional arrays for Python. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/zarr-developers/zarr-python) ⭐ 2,064 | 🐛 481 | 🌐 Python | 📅 2026-10-03 (👨‍💻 190 · 🔀 460 · 📦 9.2K):
+* [GitHub](https://github.com/zarr-developers/zarr-python) ⭐ 2,065 | 🐛 480 | 🌐 Python | 📅 2026-10-03 (👨‍💻 190 · 🔀 460 · 📦 9.2K):
 
   ```
   git clone https://github.com/zarr-developers/zarr-python
@@ -414,7 +414,7 @@ This curated list contains 400 awesome open-source projects with a total of 2.1M
 </details>
 <details><summary><b><a href="https://github.com/pola-rs/polars">polars</a></b> (🥈27 ·  ⭐ 40K · 📉) - Extremely fast Query Engine for DataFrames, written in Rust. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/pola-rs/polars) ⭐ 39,915 | 🐛 2,929 | 🌐 Rust | 📅 2026-10-03 (👨‍💻 780 · 🔀 3.1K · 📦 37K):
+* [GitHub](https://github.com/pola-rs/polars) ⭐ 39,914 | 🐛 2,930 | 🌐 Rust | 📅 2026-10-04 (👨‍💻 780 · 🔀 3.1K · 📦 37K):
 
   ```
   git clone https://github.com/pola-rs/polars
@@ -444,7 +444,7 @@ This curated list contains 400 awesome open-source projects with a total of 2.1M
 </details>
 <details><summary><b><a href="https://github.com/PyTables/PyTables">PyTables</a></b> (🥈26 ·  ⭐ 1.4K) - A Python package to manage extremely large amounts of data. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-* [GitHub](https://github.com/PyTables/PyTables) ⭐ 1,376 | 🐛 152 | 🌐 Python | 📅 2026-10-03 (👨‍💻 150 · 🔀 280):
+* [GitHub](https://github.com/PyTables/PyTables) ⭐ 1,376 | 🐛 152 | 🌐 Python | 📅 2026-10-04 (👨‍💻 150 · 🔀 280):
 
   ```
   git clone https://github.com/PyTables/PyTables
@@ -478,7 +478,7 @@ This curated list contains 400 awesome open-source projects with a total of 2.1M
 </details>
 <details><summary><b><a href="https://github.com/modin-project/modin">Modin</a></b> (🥈24 ·  ⭐ 10K · 💤) - Modin: Scale your Pandas workflows by changing a single line.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code><img src="https://git.io/JLy1S" style="display:inline;" width="13" height="13"></code></summary>
 
-* [GitHub](https://github.com/modin-project/modin) ⭐ 10,392 | 🐛 719 | 🌐 Python | 📅 2026-02-10 (👨‍💻 140 · 🔀 660 · 📦 2.4K):
+* [GitHub](https://github.com/modin-project/modin) ⭐ 10,393 | 🐛 719 | 🌐 Python | 📅 2026-02-10 (👨‍💻 140 · 🔀 660 · 📦 2.4K):
 
   ```
   git clone https://github.com/modin-project/modin
@@ -512,7 +512,7 @@ This curated list contains 400 awesome open-source projects with a total of 2.1M
 </details>
 <details><summary><b><a href="https://github.com/ekzhu/datasketch">datasketch</a></b> (🥉20 ·  ⭐ 2.9K · 📉) - MinHash, LSH, LSH Forest, Weighted MinHash, HyperLogLog,.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/ekzhu/datasketch) ⭐ 2,971 | 🐛 60 | 🌐 Python | 📅 2026-08-09 (👨‍💻 39 · 🔀 320 · 📦 2.7K):
+* [GitHub](https://github.com/ekzhu/datasketch) ⭐ 2,970 | 🐛 60 | 🌐 Python | 📅 2026-08-09 (👨‍💻 39 · 🔀 320 · 📦 2.7K):
 
   ```
   git clone https://github.com/ekzhu/datasketch
@@ -572,11 +572,11 @@ This curated list contains 400 awesome open-source projects with a total of 2.1M
 </details>
 <details><summary>Show 16 hidden projects...</summary>
 
-* <b>[numpy](https://github.com/numpy/numpy) ⭐ 32,917 | 🐛 2,250 | 🌐 Python | 📅 2026-10-03</b> (🥇35 ·  ⭐ 33K) - The fundamental package for scientific computing with Python. <code>❗Unlicensed</code>
-* <b>[pandera](https://github.com/pandera-dev/pandera) ⭐ 4,471 | 🐛 461 | 🌐 Python | 📅 2026-10-03</b> (🥈23 ·  ⭐ 4.4K) - A light-weight and flexible data validation and testing.. <code>❗Unlicensed</code> <code><img src="https://git.io/JLy1S" style="display:inline;" width="13" height="13"></code>
+* <b>[numpy](https://github.com/numpy/numpy) ⭐ 32,990 | 🐛 2,252 | 🌐 Python | 📅 2026-10-03</b> (🥇35 ·  ⭐ 33K) - The fundamental package for scientific computing with Python. <code>❗Unlicensed</code>
+* <b>[pandera](https://github.com/pandera-dev/pandera) ⭐ 4,471 | 🐛 459 | 🌐 Python | 📅 2026-10-04</b> (🥈23 ·  ⭐ 4.4K) - A light-weight and flexible data validation and testing.. <code>❗Unlicensed</code> <code><img src="https://git.io/JLy1S" style="display:inline;" width="13" height="13"></code>
 * <b>[Pandaral·lel](https://github.com/nalepae/pandarallel) ⭐ 3,797 | 🐛 99 | 🌐 Python | 📅 2024-07-09</b> (🥉20 ·  ⭐ 3.8K · 💀) - A simple and efficient tool to parallelize Pandas.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code> <code><img src="https://git.io/JLy1S" style="display:inline;" width="13" height="13"></code> <code>jupyter</code>
 * <b>[Koalas](https://github.com/databricks/koalas) ⭐ 3,372 | 🐛 108 | 🌐 Python | 📅 2024-03-20</b> (🥉21 ·  ⭐ 3.4K · 💀) - Koalas: pandas API on Apache Spark. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code>spark</code> <code><img src="https://git.io/JLy1S" style="display:inline;" width="13" height="13"></code>
-* <b>[Blaze](https://github.com/blaze/blaze) ⭐ 3,189 | 🐛 268 | 🌐 Python | 📅 2023-09-29</b> (🥈23 ·  ⭐ 3.2K · 💀) - NumPy and Pandas interface to Big Data. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code>
+* <b>[Blaze](https://github.com/blaze/blaze) ⭐ 3,188 | 🐛 268 | 🌐 Python | 📅 2023-09-29</b> (🥈23 ·  ⭐ 3.2K · 💀) - NumPy and Pandas interface to Big Data. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code>
 * <b>[docarray](https://github.com/docarray/docarray) ⚠️ Archived</b> (🥈26 ·  ⭐ 3.1K · 💀) - Represent, send, store and search multimodal data. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
 * <b>[Arctic](https://github.com/man-group/arctic) ⭐ 3,088 | 🐛 97 | 🌐 Python | 📅 2024-04-08</b> (🥉20 ·  ⭐ 3.1K) - Arctic is a high performance datastore for numeric data. <code><a href="https://tldrlegal.com/search?q=LGPL-2.1">❗️LGPL-2.1</a></code>
 * <b>[sklearn-pandas](https://github.com/scikit-learn-contrib/sklearn-pandas) ⭐ 2,840 | 🐛 43 | 🌐 Python | 📅 2023-06-08</b> (🥉22 ·  ⭐ 2.8K · 💀) - Pandas integration with sklearn. <code><a href="https://tldrlegal.com/search?q=Zlib">❗️Zlib</a></code> <code>sklearn</code> <code><img src="https://git.io/JLy1S" style="display:inline;" width="13" height="13"></code>
@@ -587,7 +587,7 @@ This curated list contains 400 awesome open-source projects with a total of 2.1M
 * <b>[PandaPy](https://github.com/firmai/pandapy) ⭐ 547 | 🐛 2 | 🌐 Python | 📅 2021-10-20</b> (🥉11 ·  ⭐ 490 · 💀) - PandaPy has the speed of NumPy and the usability of Pandas 10x to.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://git.io/JLy1S" style="display:inline;" width="13" height="13"></code>
 * <b>[Pandas Summary](https://github.com/mouradmourafiq/pandas-summary) ⭐ 534 | 🐛 7 | 🌐 Python | 📅 2026-09-17</b> (🥉15 ·  ⭐ 530 · 💀) - An extension to pandas describe function. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://git.io/JLy1S" style="display:inline;" width="13" height="13"></code>
 * <b>[fletcher](https://github.com/xhochy/fletcher) ⚠️ Archived</b> (🥉19 ·  ⭐ 230 · 💀) - Pandas ExtensionDType/Array backed by Apache Arrow. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://git.io/JLy1S" style="display:inline;" width="13" height="13"></code>
-* <b>[daffy](https://github.com/vertti/daffy) ⭐ 59 | 🐛 3 | 🌐 Python | 📅 2026-10-03</b> (🥉12 ·  ⭐ 58) - Lightweight DataFrame validation decorators for Pandas, Polars, Modin,.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://git.io/JLy1S" style="display:inline;" width="13" height="13"></code>
+* <b>[daffy](https://github.com/vertti/daffy) ⭐ 59 | 🐛 3 | 🌐 Python | 📅 2026-10-04</b> (🥉12 ·  ⭐ 58) - Lightweight DataFrame validation decorators for Pandas, Polars, Modin,.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://git.io/JLy1S" style="display:inline;" width="13" height="13"></code>
 
 </details>
 <br>
@@ -615,7 +615,7 @@ This curated list contains 400 awesome open-source projects with a total of 2.1M
 </details>
 <details><summary><b><a href="https://github.com/aio-libs/multidict">multidict</a></b> (🥇28 ·  ⭐ 490) - The multidict implementation. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/aio-libs/multidict) ⭐ 495 | 🐛 16 | 🌐 Python | 📅 2026-10-03 (👨‍💻 78 · 🔀 130 · 📦 500K):
+* [GitHub](https://github.com/aio-libs/multidict) ⭐ 495 | 🐛 15 | 🌐 Python | 📅 2026-10-04 (👨‍💻 78 · 🔀 130 · 📦 500K):
 
   ```
   git clone https://github.com/aio-libs/multidict
@@ -632,7 +632,7 @@ This curated list contains 400 awesome open-source projects with a total of 2.1M
 </details>
 <details><summary><b><a href="https://github.com/jab/bidict">bidict</a></b> (🥈26 ·  ⭐ 1.6K) - The bidirectional mapping library for Python. <code><a href="http://bit.ly/3postzC">MPL-2.0</a></code></summary>
 
-* [GitHub](https://github.com/jab/bidict) ⭐ 1,588 | 🐛 5 | 🌐 Python | 📅 2026-10-03 (👨‍💻 26 · 🔀 69 · 📦 46K):
+* [GitHub](https://github.com/jab/bidict) ⭐ 1,588 | 🐛 1 | 🌐 Python | 📅 2026-10-04 (👨‍💻 26 · 🔀 69 · 📦 46K):
 
   ```
   git clone https://github.com/jab/bidict
@@ -683,7 +683,7 @@ This curated list contains 400 awesome open-source projects with a total of 2.1M
 </details>
 <details><summary><b><a href="https://github.com/mahmoud/glom">glom</a></b> (🥉22 ·  ⭐ 2.2K) - Pythons nested data operator (and CLI), for all your declarative.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-* [GitHub](https://github.com/mahmoud/glom) ⭐ 2,168 | 🐛 136 | 🌐 Python | 📅 2026-09-08 (👨‍💻 24 · 🔀 90 · 📦 3.8K):
+* [GitHub](https://github.com/mahmoud/glom) ⭐ 2,169 | 🐛 136 | 🌐 Python | 📅 2026-09-08 (👨‍💻 24 · 🔀 90 · 📦 3.8K):
 
   ```
   git clone https://github.com/mahmoud/glom
@@ -868,7 +868,7 @@ This curated list contains 400 awesome open-source projects with a total of 2.1M
 </details>
 <details><summary><b><a href="https://github.com/holoviz/param">param</a></b> (🥈25 ·  ⭐ 520) - Declarative parameters for robust Python classes and a rich API for.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-* [GitHub](https://github.com/holoviz/param) ⭐ 521 | 🐛 180 | 🌐 Python | 📅 2026-10-02 (👨‍💻 57 · 🔀 86 · 📦 18K):
+* [GitHub](https://github.com/holoviz/param) ⭐ 521 | 🐛 181 | 🌐 Python | 📅 2026-10-02 (👨‍💻 57 · 🔀 86 · 📦 18K):
 
   ```
   git clone https://github.com/holoviz/param
@@ -918,7 +918,7 @@ This curated list contains 400 awesome open-source projects with a total of 2.1M
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-🔗 <b>[python-patterns](https://github.com/faif/python-patterns) ⭐ 43,034 | 🐛 12 | 🌐 Python | 📅 2026-10-02</b> ( ⭐ 43K · 💤)  - Collection of design patterns/idioms in Python.
+🔗 <b>[python-patterns](https://github.com/faif/python-patterns) ⭐ 43,033 | 🐛 12 | 🌐 Python | 📅 2026-10-02</b> ( ⭐ 43K · 💤)  - Collection of design patterns/idioms in Python.
 
 <details><summary><b><a href="https://github.com/keon/algorithms">algorithms</a></b> (🥉21 ·  ⭐ 25K · 💤) - Minimal examples of data structures and algorithms in Python. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
@@ -968,7 +968,7 @@ This curated list contains 400 awesome open-source projects with a total of 2.1M
 </details>
 <details><summary><b><a href="https://github.com/stub42/pytz">pytz</a></b> (🥇29 ·  ⭐ 400) - pytz Python historical timezone library and database. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/stub42/pytz) ⭐ 397 | 🐛 36 | 🌐 C | 📅 2026-09-24 (👨‍💻 28 · 🔀 110 · 📦 2.5M):
+* [GitHub](https://github.com/stub42/pytz) ⭐ 397 | 🐛 36 | 🌐 C | 📅 2026-10-04 (👨‍💻 28 · 🔀 110 · 📦 2.5M):
 
   ```
   git clone https://github.com/stub42/pytz
@@ -1002,7 +1002,7 @@ This curated list contains 400 awesome open-source projects with a total of 2.1M
 </details>
 <details><summary><b><a href="https://github.com/vacanza/holidays">holidays</a></b> (🥈28 ·  ⭐ 1.9K) - Open World Holidays Framework. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/vacanza/holidays) ⭐ 1,942 | 🐛 80 | 🌐 Python | 📅 2026-10-03 (👨‍💻 360 · 🔀 720 · 📦 28K):
+* [GitHub](https://github.com/vacanza/holidays) ⭐ 1,942 | 🐛 85 | 🌐 Python | 📅 2026-10-04 (👨‍💻 360 · 🔀 720 · 📦 28K):
 
   ```
   git clone https://github.com/vacanza/holidays
@@ -1019,7 +1019,7 @@ This curated list contains 400 awesome open-source projects with a total of 2.1M
 </details>
 <details><summary><b><a href="https://github.com/dateutil/dateutil">python-dateutil</a></b> (🥉26 ·  ⭐ 2.6K · 💤) - Useful extensions to the standard Python datetime.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/dateutil/dateutil) ⭐ 2,638 | 🐛 502 | 🌐 Python | 📅 2026-09-26 (👨‍💻 130 · 🔀 540):
+* [GitHub](https://github.com/dateutil/dateutil) ⭐ 2,638 | 🐛 503 | 🌐 Python | 📅 2026-09-26 (👨‍💻 130 · 🔀 540):
 
   ```
   git clone https://github.com/dateutil/dateutil
@@ -1082,7 +1082,7 @@ This curated list contains 400 awesome open-source projects with a total of 2.1M
 
 <details><summary><b><a href="https://github.com/fsspec/filesystem_spec">filesystem_spec</a></b> (🥇31 ·  ⭐ 1.4K) - A specification that python filesystems should adhere to. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-* [GitHub](https://github.com/fsspec/filesystem_spec) ⭐ 1,368 | 🐛 363 | 🌐 Python | 📅 2026-10-02 (👨‍💻 370 · 🔀 490 · 📦 310K):
+* [GitHub](https://github.com/fsspec/filesystem_spec) ⭐ 1,370 | 🐛 366 | 🌐 Python | 📅 2026-10-02 (👨‍💻 370 · 🔀 490 · 📦 310K):
 
   ```
   git clone https://github.com/fsspec/filesystem_spec
@@ -1216,7 +1216,7 @@ This curated list contains 400 awesome open-source projects with a total of 2.1M
 </details>
 <details><summary><b><a href="https://github.com/Legrandin/pycryptodome">pycryptodomex</a></b> (🥉27 ·  ⭐ 3.2K · 💤) - A self-contained cryptographic library for Python. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-* [GitHub](https://github.com/Legrandin/pycryptodome) ⭐ 3,267 | 🐛 97 | 🌐 C | 📅 2026-10-03 (👨‍💻 170 · 🔀 560 · 📦 150K):
+* [GitHub](https://github.com/Legrandin/pycryptodome) ⭐ 3,267 | 🐛 93 | 🌐 C | 📅 2026-10-04 (👨‍💻 170 · 🔀 560 · 📦 150K):
 
   ```
   git clone https://github.com/Legrandin/pycryptodome
@@ -1234,8 +1234,8 @@ This curated list contains 400 awesome open-source projects with a total of 2.1M
 <details><summary>Show 5 hidden projects...</summary>
 
 * <b>[tink](https://github.com/tink-crypto/tink) ⚠️ Archived</b> (🥈30 ·  ⭐ 14K · 💀) - Tink is a multi-language, cross-platform, open source library that.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
-* <b>[cryptography](https://github.com/pyca/cryptography) ⭐ 7,794 | 🐛 37 | 🌐 Python | 📅 2026-10-03</b> (🥇31 ·  ⭐ 7.8K) - cryptography is a package designed to expose.. <code>❗Unlicensed</code>
-* <b>[keyring](https://github.com/jaraco/keyring) ⭐ 1,513 | 🐛 115 | 🌐 Python | 📅 2026-04-13</b> (🥉25 ·  ⭐ 1.4K · 💤) - Store and access your passwords safely. <code>❗Unlicensed</code>
+* <b>[cryptography](https://github.com/pyca/cryptography) ⭐ 7,795 | 🐛 37 | 🌐 Python | 📅 2026-10-04</b> (🥇31 ·  ⭐ 7.8K) - cryptography is a package designed to expose.. <code>❗Unlicensed</code>
+* <b>[keyring](https://github.com/jaraco/keyring) ⭐ 1,514 | 🐛 115 | 🌐 Python | 📅 2026-04-13</b> (🥉25 ·  ⭐ 1.4K · 💤) - Store and access your passwords safely. <code>❗Unlicensed</code>
 * <b>[rsa](https://github.com/sybrenstuvel/python-rsa) ⚠️ Archived</b> (🥉24 ·  ⭐ 500 · 💀) - Python-RSA is a pure-Python RSA implementation. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
 * <b>[asn1crypto](https://github.com/wbond/asn1crypto) ⭐ 362 | 🐛 56 | 🌐 Python | 📅 2026-07-18</b> (🥉25 ·  ⭐ 340 · 💀) - Python ASN.1 library with a focus on performance and a pythonic API. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 
@@ -1248,7 +1248,7 @@ This curated list contains 400 awesome open-source projects with a total of 2.1M
 
 <details><summary><b><a href="https://github.com/pulumi/pulumi">pulumi</a></b> (🥇33 ·  ⭐ 26K) - Pulumi - Infrastructure as Code in any programming language. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/pulumi/pulumi) ⭐ 25,762 | 🐛 2,468 | 🌐 Go | 📅 2026-10-03 (👨‍💻 4.5K · 🔀 1.4K · 📦 11K):
+* [GitHub](https://github.com/pulumi/pulumi) ⭐ 25,761 | 🐛 2,469 | 🌐 Go | 📅 2026-10-04 (👨‍💻 4.5K · 🔀 1.4K · 📦 11K):
 
   ```
   git clone https://github.com/pulumi/pulumi
@@ -1265,7 +1265,7 @@ This curated list contains 400 awesome open-source projects with a total of 2.1M
 </details>
 <details><summary><b><a href="https://github.com/boto/botocore">botocore</a></b> (🥇33 ·  ⭐ 1.6K) - The low-level, core functionality of boto3 and the AWS CLI. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/boto/botocore) ⭐ 1,643 | 🐛 194 | 🌐 Python | 📅 2026-10-02 (👨‍💻 220 · 🔀 1.2K · 📦 440K):
+* [GitHub](https://github.com/boto/botocore) ⭐ 1,644 | 🐛 194 | 🌐 Python | 📅 2026-10-02 (👨‍💻 220 · 🔀 1.2K · 📦 440K):
 
   ```
   git clone https://github.com/boto/botocore
@@ -1282,7 +1282,7 @@ This curated list contains 400 awesome open-source projects with a total of 2.1M
 </details>
 <details><summary><b><a href="https://github.com/ansible/ansible">ansible</a></b> (🥈32 ·  ⭐ 71K) - Ansible is a radically simple IT automation platform that makes your.. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code></summary>
 
-* [GitHub](https://github.com/ansible/ansible) ⭐ 70,839 | 🐛 864 | 🌐 Python | 📅 2026-10-02 (👨‍💻 7K · 🔀 24K · 📦 43K):
+* [GitHub](https://github.com/ansible/ansible) ⭐ 70,849 | 🐛 866 | 🌐 Python | 📅 2026-10-02 (👨‍💻 7K · 🔀 24K · 📦 43K):
 
   ```
   git clone https://github.com/ansible/ansible
@@ -1316,7 +1316,7 @@ This curated list contains 400 awesome open-source projects with a total of 2.1M
 </details>
 <details><summary><b><a href="https://github.com/paramiko/paramiko">paramiko</a></b> (🥈30 ·  ⭐ 9.8K) - The leading native Python SSHv2 protocol library. <code><a href="https://tldrlegal.com/search?q=LGPL-2.1">❗️LGPL-2.1</a></code></summary>
 
-* [GitHub](https://github.com/paramiko/paramiko) ⭐ 9,874 | 🐛 1,201 | 🌐 Python | 📅 2026-08-29 (👨‍💻 190 · 🔀 2.1K · 📦 130K):
+* [GitHub](https://github.com/paramiko/paramiko) ⭐ 9,875 | 🐛 1,203 | 🌐 Python | 📅 2026-08-29 (👨‍💻 190 · 🔀 2.1K · 📦 130K):
 
   ```
   git clone https://github.com/paramiko/paramiko
@@ -1333,7 +1333,7 @@ This curated list contains 400 awesome open-source projects with a total of 2.1M
 </details>
 <details><summary><b><a href="https://github.com/aws/aws-cli">awscli</a></b> (🥈29 ·  ⭐ 17K) - Universal Command Line Interface for Amazon Web Services. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/aws/aws-cli) ⭐ 17,286 | 🐛 753 | 🌐 Python | 📅 2026-10-02 (👨‍💻 510 · 🔀 4.7K · 📦 5):
+* [GitHub](https://github.com/aws/aws-cli) ⭐ 17,289 | 🐛 753 | 🌐 Python | 📅 2026-10-02 (👨‍💻 510 · 🔀 4.7K · 📦 5):
 
   ```
   git clone https://github.com/aws/aws-cli
@@ -1350,7 +1350,7 @@ This curated list contains 400 awesome open-source projects with a total of 2.1M
 </details>
 <details><summary><b><a href="https://github.com/kubernetes-client/python">kubernetes</a></b> (🥈27 ·  ⭐ 7.7K) - Official Python client library for kubernetes. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/kubernetes-client/python) ⭐ 7,670 | 🐛 75 | 🌐 Python | 📅 2026-10-01 (👨‍💻 260 · 🔀 3.5K):
+* [GitHub](https://github.com/kubernetes-client/python) ⭐ 7,671 | 🐛 75 | 🌐 Python | 📅 2026-10-01 (👨‍💻 260 · 🔀 3.5K):
 
   ```
   git clone https://github.com/kubernetes-client/python
@@ -1367,7 +1367,7 @@ This curated list contains 400 awesome open-source projects with a total of 2.1M
 </details>
 <details><summary><b><a href="https://github.com/docker/compose">docker-compose</a></b> (🥈26 ·  ⭐ 38K) - Define and run multi-container applications with Docker. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/docker/compose) ⭐ 38,282 | 🐛 89 | 🌐 Go | 📅 2026-10-02 (👨‍💻 670 · 🔀 5.8K · 📦 280):
+* [GitHub](https://github.com/docker/compose) ⭐ 38,284 | 🐛 90 | 🌐 Go | 📅 2026-10-02 (👨‍💻 670 · 🔀 5.8K · 📦 280):
 
   ```
   git clone https://github.com/docker/compose
@@ -1474,7 +1474,7 @@ This curated list contains 400 awesome open-source projects with a total of 2.1M
 
 <details><summary><b><a href="https://github.com/Supervisor/supervisor">supervisor</a></b> (🥉26 ·  ⭐ 8.9K · 💤) - Supervisor process control system for Unix.. <code><a href="https://tldrlegal.com/search?q=Repoze%20Public%20License">❗️Repoze Public License</a></code></summary>
 
-* [GitHub](https://github.com/Supervisor/supervisor) ⭐ 9,123 | 🐛 183 | 🌐 Python | 📅 2025-12-21 (👨‍💻 180 · 🔀 1.3K · 📦 14K):
+* [GitHub](https://github.com/Supervisor/supervisor) ⭐ 9,125 | 🐛 183 | 🌐 Python | 📅 2025-12-21 (👨‍💻 180 · 🔀 1.3K · 📦 14K):
 
   ```
   git clone https://github.com/Supervisor/supervisor
@@ -1491,7 +1491,7 @@ This curated list contains 400 awesome open-source projects with a total of 2.1M
 </details>
 <details><summary><b><a href="https://github.com/amoffat/sh">sh</a></b> (🥉25 ·  ⭐ 7.2K) - Python process launching. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/amoffat/sh) ⭐ 7,246 | 🐛 2 | 🌐 Python | 📅 2026-07-25 (👨‍💻 110 · 🔀 510 · 📦 19K):
+* [GitHub](https://github.com/amoffat/sh) ⭐ 7,246 | 🐛 3 | 🌐 Python | 📅 2026-07-25 (👨‍💻 110 · 🔀 510 · 📦 19K):
 
   ```
   git clone https://github.com/amoffat/sh
@@ -1520,7 +1520,7 @@ This curated list contains 400 awesome open-source projects with a total of 2.1M
 
 <details><summary><b><a href="https://github.com/agronholm/anyio">anyio</a></b> (🥇31 ·  ⭐ 2.5K) - High level asynchronous concurrency and networking framework that works on.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/agronholm/anyio) ⭐ 2,550 | 🐛 135 | 🌐 Python | 📅 2026-10-03 (👨‍💻 110 · 🔀 270 · 📦 680K):
+* [GitHub](https://github.com/agronholm/anyio) ⭐ 2,550 | 🐛 135 | 🌐 Python | 📅 2026-10-04 (👨‍💻 110 · 🔀 270 · 📦 680K):
 
   ```
   git clone https://github.com/agronholm/anyio
@@ -1537,7 +1537,7 @@ This curated list contains 400 awesome open-source projects with a total of 2.1M
 </details>
 <details><summary><b><a href="https://github.com/MagicStack/uvloop">uvloop</a></b> (🥈30 ·  ⭐ 12K) - Ultra fast asyncio event loop. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/MagicStack/uvloop) ⭐ 11,907 | 🐛 163 | 🌐 Cython | 📅 2026-10-01 (👨‍💻 80 · 🔀 620 · 📦 230K):
+* [GitHub](https://github.com/MagicStack/uvloop) ⭐ 11,906 | 🐛 163 | 🌐 Cython | 📅 2026-10-01 (👨‍💻 80 · 🔀 620 · 📦 230K):
 
   ```
   git clone https://github.com/MagicStack/uvloop
@@ -1597,7 +1597,7 @@ This curated list contains 400 awesome open-source projects with a total of 2.1M
 
 <details><summary><b><a href="https://github.com/theskumar/python-dotenv">python-dotenv</a></b> (🥇32 ·  ⭐ 8.9K) - Reads key-value pairs from a .env file and can set them as.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-* [GitHub](https://github.com/theskumar/python-dotenv) ⭐ 8,892 | 🐛 116 | 🌐 Python | 📅 2026-10-01 (👨‍💻 120 · 🔀 590 · 📦 1.8M):
+* [GitHub](https://github.com/theskumar/python-dotenv) ⭐ 8,892 | 🐛 117 | 🌐 Python | 📅 2026-10-01 (👨‍💻 120 · 🔀 590 · 📦 1.8M):
 
   ```
   git clone https://github.com/theskumar/python-dotenv
@@ -1712,7 +1712,7 @@ This curated list contains 400 awesome open-source projects with a total of 2.1M
 
 <details><summary><b><a href="https://github.com/pallets/click">click</a></b> (🥇35 ·  ⭐ 18K) - Python composable command line interface toolkit. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-* [GitHub](https://github.com/pallets/click) ⭐ 17,782 | 🐛 86 | 🌐 Python | 📅 2026-09-23 (👨‍💻 450 · 🔀 2K · 📦 2.4M):
+* [GitHub](https://github.com/pallets/click) ⭐ 17,784 | 🐛 86 | 🌐 Python | 📅 2026-09-23 (👨‍💻 450 · 🔀 2K · 📦 2.4M):
 
   ```
   git clone https://github.com/pallets/click
@@ -1729,7 +1729,7 @@ This curated list contains 400 awesome open-source projects with a total of 2.1M
 </details>
 <details><summary><b><a href="https://github.com/Textualize/rich">rich</a></b> (🥇31 ·  ⭐ 57K) - Rich is a Python library for rich text and beautiful formatting in the terminal. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/Textualize/rich) ⭐ 57,472 | 🐛 380 | 🌐 Python | 📅 2026-06-23 (👨‍💻 290 · 🔀 2.4K · 📦 570K):
+* [GitHub](https://github.com/Textualize/rich) ⭐ 57,475 | 🐛 380 | 🌐 Python | 📅 2026-06-23 (👨‍💻 290 · 🔀 2.4K · 📦 570K):
 
   ```
   git clone https://github.com/Textualize/rich
@@ -1814,7 +1814,7 @@ This curated list contains 400 awesome open-source projects with a total of 2.1M
 </details>
 <details><summary><b><a href="https://github.com/prompt-toolkit/python-prompt-toolkit">python-prompt-toolkit</a></b> (🥉23 ·  ⭐ 11K) - Library for building powerful interactive command line.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-* [GitHub](https://github.com/prompt-toolkit/python-prompt-toolkit) ⭐ 10,592 | 🐛 739 | 🌐 Python | 📅 2026-07-26 (👨‍💻 250 · 🔀 800):
+* [GitHub](https://github.com/prompt-toolkit/python-prompt-toolkit) ⭐ 10,594 | 🐛 739 | 🌐 Python | 📅 2026-07-26 (👨‍💻 250 · 🔀 800):
 
   ```
   git clone https://github.com/prompt-toolkit/python-prompt-toolkit
@@ -1861,7 +1861,7 @@ This curated list contains 400 awesome open-source projects with a total of 2.1M
 </details>
 <details><summary><b><a href="https://github.com/kdeldycke/click-extra">Click Extra</a></b> (🥉17 ·  ⭐ 120) - Drop-in replacement for Click to make user-friendly and.. <code><a href="http://bit.ly/2KucAZR">❗️GPL-2.0</a></code></summary>
 
-* [GitHub](https://github.com/kdeldycke/click-extra) ⭐ 123 | 🐛 7 | 🌐 Python | 📅 2026-10-03 (👨‍💻 16 · 🔀 13 · 📦 140):
+* [GitHub](https://github.com/kdeldycke/click-extra) ⭐ 123 | 🐛 4 | 🌐 Python | 📅 2026-10-04 (👨‍💻 16 · 🔀 13 · 📦 140):
 
   ```
   git clone https://github.com/kdeldycke/click-extra
@@ -1877,9 +1877,9 @@ This curated list contains 400 awesome open-source projects with a total of 2.1M
 * <b>[python-fire](https://github.com/google/python-fire) ⭐ 28,222 | 🐛 202 | 🌐 Python | 📅 2026-07-01</b> (🥈27 ·  ⭐ 28K · 💀) - Python Fire is a library for automatically generating.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
 * <b>[docopt](https://github.com/docopt/docopt) ⭐ 8,005 | 🐛 267 | 🌐 Python | 📅 2025-06-23</b> (🥈27 ·  ⭐ 8K · 💀) - Create *beautiful* command-line interfaces with Python. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 * <b>[asciimatics](https://github.com/peterbrittain/asciimatics) ⭐ 4,303 | 🐛 17 | 🌐 Python | 📅 2026-07-04</b> (🥉22 ·  ⭐ 4.3K · 💀) - A cross platform package to do curses-like operations, plus.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
-* <b>[colorama](https://github.com/tartley/colorama) ⭐ 3,795 | 🐛 144 | 🌐 Python | 📅 2026-05-13</b> (🥈29 ·  ⭐ 3.7K · 💀) - Simple cross-platform colored terminal text in Python. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code>
+* <b>[colorama](https://github.com/tartley/colorama) ⭐ 3,796 | 🐛 144 | 🌐 Python | 📅 2026-05-13</b> (🥈29 ·  ⭐ 3.7K · 💀) - Simple cross-platform colored terminal text in Python. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code>
 * <b>[questionary](https://github.com/tmbo/questionary) ⭐ 2,183 | 🐛 67 | 🌐 Python | 📅 2026-08-18</b> (🥉23 ·  ⭐ 1.8K · 💀) - Python library to build pretty command line user prompts Easy to.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-* <b>[bashplotlib](https://github.com/glamp/bashplotlib) ⭐ 1,920 | 🐛 24 | 🌐 Python | 📅 2024-06-23</b> (🥉16 ·  ⭐ 1.9K · 💀) - plotting in the terminal. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+* <b>[bashplotlib](https://github.com/glamp/bashplotlib) ⭐ 1,921 | 🐛 24 | 🌐 Python | 📅 2024-06-23</b> (🥉16 ·  ⭐ 1.9K · 💀) - plotting in the terminal. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 * <b>[cleo](https://github.com/python-poetry/cleo) ⭐ 1,357 | 🐛 62 | 🌐 Python | 📅 2026-09-07</b> (🥉24 ·  ⭐ 1.3K · 💀) - Cleo allows you to create beautiful and testable command-line interfaces. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 * <b>[colout](https://github.com/nojhan/colout) ⭐ 1,161 | 🐛 14 | 🌐 Python | 📅 2026-06-14</b> (🥉13 ·  ⭐ 1.2K · 💀) - Color text streams with a polished command line interface. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code>
 * <b>[clint](https://github.com/kennethreitz/clint) ⚠️ Archived</b> (🥉18 ·  ⭐ 95 · 💀) - Python Command Line Interface Tools. <code><a href="http://bit.ly/3hkKRql">ISC</a></code>
@@ -1902,7 +1902,7 @@ This curated list contains 400 awesome open-source projects with a total of 2.1M
 
 <details><summary><b><a href="https://github.com/tkem/cachetools">cachetools</a></b> (🥇30 ·  ⭐ 2.8K) - Extensible memoizing collections and decorators. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/tkem/cachetools) ⭐ 2,782 | 🐛 9 | 🌐 Python | 📅 2026-10-01 (👨‍💻 26 · 🔀 210 · 📦 710K):
+* [GitHub](https://github.com/tkem/cachetools) ⭐ 2,783 | 🐛 10 | 🌐 Python | 📅 2026-10-01 (👨‍💻 26 · 🔀 210 · 📦 710K):
 
   ```
   git clone https://github.com/tkem/cachetools
@@ -1992,11 +1992,11 @@ This curated list contains 400 awesome open-source projects with a total of 2.1M
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-🔗 <b>[best-of-web-python - Web UI](https://github.com/ml-tooling/best-of-web-python) ⭐ 2,761 | 🐛 21 | 📅 2026-10-01</b> ( ⭐ 2.6K · 💤)  - Collection of libraries to implement web-based UIs.
+🔗 <b>[best-of-web-python - Web UI](https://github.com/ml-tooling/best-of-web-python) ⭐ 2,760 | 🐛 20 | 📅 2026-10-01</b> ( ⭐ 2.6K · 💤)  - Collection of libraries to implement web-based UIs.
 
 <details><summary><b><a href="https://github.com/kivy/kivy">kivy</a></b> (🥇28 ·  ⭐ 19K · 💤) - Open source UI framework written in Python, running on Windows, Linux,.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/kivy/kivy) ⭐ 19,025 | 🐛 849 | 🌐 Python | 📅 2026-10-03 (👨‍💻 640 · 🔀 3.1K · 📦 18K):
+* [GitHub](https://github.com/kivy/kivy) ⭐ 19,026 | 🐛 857 | 🌐 Python | 📅 2026-10-03 (👨‍💻 640 · 🔀 3.1K · 📦 18K):
 
   ```
   git clone https://github.com/kivy/kivy
@@ -2030,7 +2030,7 @@ This curated list contains 400 awesome open-source projects with a total of 2.1M
 </details>
 <details><summary><b><a href="https://github.com/hoffstadt/DearPyGui">DearPyGui</a></b> (🥈22 ·  ⭐ 15K) - Dear PyGui: A fast and powerful Graphical User Interface Toolkit for.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/hoffstadt/DearPyGui) ⭐ 15,638 | 🐛 328 | 🌐 C++ | 📅 2026-05-13 (👨‍💻 76 · 🔀 780 · 📦 4.5K):
+* [GitHub](https://github.com/hoffstadt/DearPyGui) ⭐ 15,643 | 🐛 328 | 🌐 C++ | 📅 2026-05-13 (👨‍💻 76 · 🔀 780 · 📦 4.5K):
 
   ```
   git clone https://github.com/hoffstadt/DearPyGui
@@ -2043,7 +2043,7 @@ This curated list contains 400 awesome open-source projects with a total of 2.1M
 </details>
 <details><summary><b><a href="https://github.com/beeware/toga">toga</a></b> (🥉21 ·  ⭐ 5.4K) - A Python native, OS native GUI toolkit. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-* [GitHub](https://github.com/beeware/toga) ⭐ 5,413 | 🐛 312 | 🌐 Python | 📅 2026-10-02 (👨‍💻 350 · 🔀 830 · 📦 3):
+* [GitHub](https://github.com/beeware/toga) ⭐ 5,414 | 🐛 312 | 🌐 Python | 📅 2026-10-02 (👨‍💻 350 · 🔀 830 · 📦 3):
 
   ```
   git clone https://github.com/beeware/toga
@@ -2063,7 +2063,7 @@ This curated list contains 400 awesome open-source projects with a total of 2.1M
 * <b>[PySimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI) ⭐ 13,823 | 🐛 708 | 🌐 Python | 📅 2026-08-30</b> (🥈23 ·  ⭐ 14K) - PySimpleGUI is a Python package that enables Python.. <code><a href="https://tldrlegal.com/search?q=PySimpleGUI%20License">❗️PySimpleGUI License</a></code>
 * <b>[Eel](https://github.com/python-eel/Eel) ⚠️ Archived</b> (🥉21 ·  ⭐ 6.8K · 💀) - A little Python library for making simple Electron-like HTML/JS GUI apps. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 * <b>[flexx](https://github.com/flexxui/flexx) ⭐ 3,329 | 🐛 96 | 🌐 Python | 📅 2026-09-28</b> (🥉20 ·  ⭐ 3.3K · 💀) - Write desktop and web apps in pure Python. <code><a href="http://bit.ly/3rqEWVr">BSD-2</a></code>
-* <b>[Phoenix](https://github.com/wxWidgets/Phoenix) ⭐ 2,628 | 🐛 612 | 🌐 Python | 📅 2026-10-02</b> (🥉20 ·  ⭐ 2.6K) - wxPythons Project Phoenix. A new implementation of wxPython,.. <code><a href="https://tldrlegal.com/search?q=wxWindows">❗️wxWindows</a></code>
+* <b>[Phoenix](https://github.com/wxWidgets/Phoenix) ⭐ 2,628 | 🐛 613 | 🌐 Python | 📅 2026-10-02</b> (🥉20 ·  ⭐ 2.6K) - wxPythons Project Phoenix. A new implementation of wxPython,.. <code><a href="https://tldrlegal.com/search?q=wxWindows">❗️wxWindows</a></code>
 * <b>[enaml](https://github.com/nucleic/enaml) ⭐ 1,577 | 🐛 62 | 🌐 Python | 📅 2026-09-18</b> (🥉18 ·  ⭐ 1.6K · 💤) - Declarative User Interfaces for Python. <code>❗Unlicensed</code>
 
 </details>
@@ -2119,7 +2119,7 @@ This curated list contains 400 awesome open-source projects with a total of 2.1M
 </details>
 <details><summary><b><a href="https://github.com/carpedm20/emoji">emoji</a></b> (🥇27 ·  ⭐ 2K) - emoji terminal output for Python. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-* [GitHub](https://github.com/carpedm20/emoji) ⭐ 2,041 | 🐛 29 | 🌐 Python | 📅 2026-09-16 (👨‍💻 70 · 🔀 300 · 📦 93K):
+* [GitHub](https://github.com/carpedm20/emoji) ⭐ 2,042 | 🐛 29 | 🌐 Python | 📅 2026-09-16 (👨‍💻 70 · 🔀 300 · 📦 93K):
 
   ```
   git clone https://github.com/carpedm20/emoji
@@ -2136,7 +2136,7 @@ This curated list contains 400 awesome open-source projects with a total of 2.1M
 </details>
 <details><summary><b><a href="https://github.com/un33k/python-slugify">python-slugify</a></b> (🥇27 ·  ⭐ 1.6K) - Returns unicode slugs. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/un33k/python-slugify) ⭐ 1,625 | 🐛 0 | 🌐 Python | 📅 2026-09-27 (👨‍💻 47 · 🔀 140 · 📦 120K):
+* [GitHub](https://github.com/un33k/python-slugify) ⭐ 1,625 | 🐛 1 | 🌐 Python | 📅 2026-09-27 (👨‍💻 47 · 🔀 140 · 📦 120K):
 
   ```
   git clone https://github.com/un33k/python-slugify
@@ -2245,7 +2245,7 @@ This curated list contains 400 awesome open-source projects with a total of 2.1M
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-🔗 <b>[best-of-web-python](https://github.com/ml-tooling/best-of-web-python) ⭐ 2,761 | 🐛 21 | 📅 2026-10-01</b> ( ⭐ 2.6K · 💤)  - A ranked list of awesome python libraries for web development...
+🔗 <b>[best-of-web-python](https://github.com/ml-tooling/best-of-web-python) ⭐ 2,760 | 🐛 20 | 📅 2026-10-01</b> ( ⭐ 2.6K · 💤)  - A ranked list of awesome python libraries for web development...
 
 <br>
 
@@ -2257,7 +2257,7 @@ This curated list contains 400 awesome open-source projects with a total of 2.1M
 
 <details><summary><b><a href="https://github.com/sqlalchemy/sqlalchemy">SQLAlchemy</a></b> (🥇34 ·  ⭐ 12K) - The Database Toolkit for Python. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/sqlalchemy/sqlalchemy) ⭐ 12,197 | 🐛 212 | 🌐 Python | 📅 2026-10-02 (👨‍💻 870 · 🔀 1.8K · 📦 1.2M):
+* [GitHub](https://github.com/sqlalchemy/sqlalchemy) ⭐ 12,198 | 🐛 216 | 🌐 Python | 📅 2026-10-03 (👨‍💻 870 · 🔀 1.8K · 📦 1.2M):
 
   ```
   git clone https://github.com/sqlalchemy/sqlalchemy
@@ -2274,7 +2274,7 @@ This curated list contains 400 awesome open-source projects with a total of 2.1M
 </details>
 <details><summary><b><a href="https://github.com/boto/boto3">boto3</a></b> (🥇34 ·  ⭐ 9.9K) - AWS SDK for Python (Boto3). <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/boto/boto3) ⭐ 9,911 | 🐛 191 | 🌐 Python | 📅 2026-10-02 (👨‍💻 170 · 🔀 2K · 📦 620K):
+* [GitHub](https://github.com/boto/boto3) ⭐ 9,912 | 🐛 191 | 🌐 Python | 📅 2026-10-02 (👨‍💻 170 · 🔀 2K · 📦 620K):
 
   ```
   git clone https://github.com/boto/boto3
@@ -2291,7 +2291,7 @@ This curated list contains 400 awesome open-source projects with a total of 2.1M
 </details>
 <details><summary><b><a href="https://github.com/sqlalchemy/alembic">alembic</a></b> (🥇31 ·  ⭐ 4.4K) - A database migrations tool for SQLAlchemy. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/sqlalchemy/alembic) ⭐ 4,426 | 🐛 119 | 🌐 Python | 📅 2026-09-18 (👨‍💻 230 · 🔀 380 · 📦 350K):
+* [GitHub](https://github.com/sqlalchemy/alembic) ⭐ 4,427 | 🐛 121 | 🌐 Python | 📅 2026-09-18 (👨‍💻 230 · 🔀 380 · 📦 350K):
 
   ```
   git clone https://github.com/sqlalchemy/alembic
@@ -2325,7 +2325,7 @@ This curated list contains 400 awesome open-source projects with a total of 2.1M
 </details>
 <details><summary><b><a href="https://github.com/googleapis/google-cloud-python">google-cloud-storage</a></b> (🥇30 ·  ⭐ 5.4K) - Google Cloud Client Libraries for Python. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/googleapis/google-cloud-python) ⭐ 5,397 | 🐛 589 | 🌐 Python | 📅 2026-10-03 (👨‍💻 1.1K · 🔀 1.8K · 📦 2.6K):
+* [GitHub](https://github.com/googleapis/google-cloud-python) ⭐ 5,401 | 🐛 588 | 🌐 Python | 📅 2026-10-03 (👨‍💻 1.1K · 🔀 1.8K · 📦 2.6K):
 
   ```
   git clone https://github.com/googleapis/google-cloud-python
@@ -2376,7 +2376,7 @@ This curated list contains 400 awesome open-source projects with a total of 2.1M
 </details>
 <details><summary><b><a href="https://github.com/Azure/azure-sdk-for-python">azure-storage-blob</a></b> (🥇29 ·  ⭐ 5.6K) - This repository is for active development of the Azure SDK.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/Azure/azure-sdk-for-python) ⭐ 5,611 | 🐛 1,115 | 🌐 Python | 📅 2026-10-03 (👨‍💻 1.4K · 🔀 3.4K · 📦 2.8K):
+* [GitHub](https://github.com/Azure/azure-sdk-for-python) ⭐ 5,613 | 🐛 1,114 | 🌐 Python | 📅 2026-10-04 (👨‍💻 1.4K · 🔀 3.4K · 📦 2.8K):
 
   ```
   git clone https://github.com/Azure/azure-sdk-for-python
@@ -2410,7 +2410,7 @@ This curated list contains 400 awesome open-source projects with a total of 2.1M
 </details>
 <details><summary><b><a href="https://github.com/mongodb/mongo-python-driver">pymongo</a></b> (🥇29 ·  ⭐ 4.4K) - PyMongo - the Official MongoDB Python driver. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/mongodb/mongo-python-driver) ⭐ 4,357 | 🐛 17 | 🌐 Python | 📅 2026-10-02 (👨‍💻 260 · 🔀 1.2K):
+* [GitHub](https://github.com/mongodb/mongo-python-driver) ⭐ 4,358 | 🐛 17 | 🌐 Python | 📅 2026-10-02 (👨‍💻 260 · 🔀 1.2K):
 
   ```
   git clone https://github.com/mongodb/mongo-python-driver
@@ -2444,7 +2444,7 @@ This curated list contains 400 awesome open-source projects with a total of 2.1M
 </details>
 <details><summary><b><a href="https://github.com/redis/redis-py">redis</a></b> (🥈28 ·  ⭐ 14K) - Redis Python client. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/redis/redis-py) ⭐ 13,647 | 🐛 85 | 🌐 Python | 📅 2026-10-03 (👨‍💻 590 · 🔀 2.7K):
+* [GitHub](https://github.com/redis/redis-py) ⭐ 13,648 | 🐛 91 | 🌐 Python | 📅 2026-10-04 (👨‍💻 590 · 🔀 2.7K):
 
   ```
   git clone https://github.com/redis/redis-py
@@ -2546,7 +2546,7 @@ This curated list contains 400 awesome open-source projects with a total of 2.1M
 </details>
 <details><summary><b><a href="https://github.com/prometheus/client_python">Prometheus Client</a></b> (🥈27 ·  ⭐ 4.3K) - Prometheus instrumentation library for Python.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/prometheus/client_python) ⭐ 4,379 | 🐛 153 | 🌐 Python | 📅 2026-09-15 (👨‍💻 180 · 🔀 870):
+* [GitHub](https://github.com/prometheus/client_python) ⭐ 4,380 | 🐛 155 | 🌐 Python | 📅 2026-09-15 (👨‍💻 180 · 🔀 870):
 
   ```
   git clone https://github.com/prometheus/client_python
@@ -2580,7 +2580,7 @@ This curated list contains 400 awesome open-source projects with a total of 2.1M
 </details>
 <details><summary><b><a href="https://github.com/confluentinc/confluent-kafka-python">confluent-kafka-python</a></b> (🥈27 ·  ⭐ 510) - Confluents Kafka Python Client. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/confluentinc/confluent-kafka-python) ⭐ 515 | 🐛 220 | 🌐 Python | 📅 2026-10-02 (👨‍💻 150 · 🔀 970 · 📦 18K):
+* [GitHub](https://github.com/confluentinc/confluent-kafka-python) ⭐ 515 | 🐛 221 | 🌐 Python | 📅 2026-10-02 (👨‍💻 150 · 🔀 970 · 📦 18K):
 
   ```
   git clone https://github.com/confluentinc/confluent-kafka-python
@@ -2614,7 +2614,7 @@ This curated list contains 400 awesome open-source projects with a total of 2.1M
 </details>
 <details><summary><b><a href="https://github.com/tortoise/tortoise-orm">tortoise-orm</a></b> (🥈26 ·  ⭐ 5.6K) - Familiar asyncio ORM for python, built with relations in mind. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/tortoise/tortoise-orm) ⭐ 5,633 | 🐛 519 | 🌐 Python | 📅 2026-10-03 (👨‍💻 200 · 🔀 500 · 📦 11K):
+* [GitHub](https://github.com/tortoise/tortoise-orm) ⭐ 5,633 | 🐛 520 | 🌐 Python | 📅 2026-10-03 (👨‍💻 200 · 🔀 500 · 📦 11K):
 
   ```
   git clone https://github.com/tortoise/tortoise-orm
@@ -2631,7 +2631,7 @@ This curated list contains 400 awesome open-source projects with a total of 2.1M
 </details>
 <details><summary><b><a href="https://github.com/ibis-project/ibis">Ibis</a></b> (🥈25 ·  ⭐ 6.5K) - the portable Python dataframe library. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/ibis-project/ibis) ⭐ 6,671 | 🐛 546 | 🌐 Python | 📅 2026-10-02 (👨‍💻 520 · 🔀 720 · 📦 5.4K):
+* [GitHub](https://github.com/ibis-project/ibis) ⭐ 6,671 | 🐛 545 | 🌐 Python | 📅 2026-10-04 (👨‍💻 520 · 🔀 720 · 📦 5.4K):
 
   ```
   git clone https://github.com/ibis-project/ibis
@@ -2682,7 +2682,7 @@ This curated list contains 400 awesome open-source projects with a total of 2.1M
 </details>
 <details><summary><b><a href="https://github.com/kayak/pypika">PyPika</a></b> (🥈25 ·  ⭐ 2.9K) - PyPika is a python SQL query builder that exposes the full richness.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/kayak/pypika) ⭐ 2,926 | 🐛 236 | 🌐 Python | 📅 2026-02-04 (👨‍💻 120 · 🔀 330 · 📦 48K):
+* [GitHub](https://github.com/kayak/pypika) ⭐ 2,926 | 🐛 237 | 🌐 Python | 📅 2026-02-04 (👨‍💻 120 · 🔀 330 · 📦 48K):
 
   ```
   git clone https://github.com/kayak/pypika
@@ -2865,7 +2865,7 @@ This curated list contains 400 awesome open-source projects with a total of 2.1M
 </details>
 <details><summary><b><a href="https://github.com/psycopg/psycopg">psycopg3</a></b> (🥉18 ·  ⭐ 2.5K) - New generation PostgreSQL database adapter for the Python.. <code><a href="http://bit.ly/37RvQcA">❗️LGPL-3.0</a></code></summary>
 
-* [GitHub](https://github.com/psycopg/psycopg) ⭐ 2,504 | 🐛 64 | 🌐 Python | 📅 2026-10-02 (👨‍💻 110 · 🔀 280):
+* [GitHub](https://github.com/psycopg/psycopg) ⭐ 2,503 | 🐛 64 | 🌐 Python | 📅 2026-10-02 (👨‍💻 110 · 🔀 280):
 
   ```
   git clone https://github.com/psycopg/psycopg
@@ -2953,7 +2953,7 @@ This curated list contains 400 awesome open-source projects with a total of 2.1M
 * <b>[mongo-connector](https://github.com/yougov/mongo-connector) ⭐ 1,871 | 🐛 262 | 🌐 Python | 📅 2024-03-27</b> (🥉18 ·  ⭐ 1.9K · 💀) - MongoDB data stream pipeline tools by YouGov (adopted.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
 * <b>[influxdb](https://github.com/influxdata/influxdb-python) ⚠️ Archived</b> (🥉21 ·  ⭐ 1.7K · 💀) - Python client for InfluxDB. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 * <b>[pygsheets](https://github.com/nithinmurali/pygsheets) ⭐ 1,544 | 🐛 68 | 🌐 Python | 📅 2025-06-10</b> (🥉19 ·  ⭐ 1.5K · 💀) - Google Sheets Python API v4. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-* <b>[SQLAlchemy-Utils](https://github.com/kvesteri/sqlalchemy-utils) ⭐ 1,346 | 🐛 234 | 🌐 Python | 📅 2026-07-08</b> (🥉23 ·  ⭐ 1.3K) - Various utility functions and datatypes for SQLAlchemy. <code>❗Unlicensed</code>
+* <b>[SQLAlchemy-Utils](https://github.com/kvesteri/sqlalchemy-utils) ⭐ 1,346 | 🐛 235 | 🌐 Python | 📅 2026-07-08</b> (🥉23 ·  ⭐ 1.3K) - Various utility functions and datatypes for SQLAlchemy. <code>❗Unlicensed</code>
 * <b>[db.py](https://github.com/yhat/db.py) ⚠️ Archived</b> (🥉13 ·  ⭐ 1.2K · 💀) - db.py is an easier way to interact with your databases. <code><a href="http://bit.ly/3rqEWVr">BSD-2</a></code>
 * <b>[redis-py-cluster](https://github.com/grokzen/redis-py-cluster) ⚠️ Archived</b> (🥉18 ·  ⭐ 1.1K · 💀) - Python cluster client for the official redis cluster... <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 * <b>[SuperSQLite](https://github.com/plasticityai/supersqlite) ⭐ 708 | 🐛 8 | 🌐 Python | 📅 2020-05-09</b> (🥉12 ·  ⭐ 720 · 💀) - A supercharged SQLite library for Python. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
@@ -2977,7 +2977,7 @@ This curated list contains 400 awesome open-source projects with a total of 2.1M
 
 <details><summary><b><a href="https://github.com/joke2k/faker">Faker</a></b> (🥇31 ·  ⭐ 19K) - Faker is a Python package that generates fake data for you. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/joke2k/faker) ⭐ 19,421 | 🐛 41 | 🌐 Python | 📅 2026-09-29 (👨‍💻 680 · 🔀 2.1K · 📦 300K):
+* [GitHub](https://github.com/joke2k/faker) ⭐ 19,421 | 🐛 42 | 🌐 Python | 📅 2026-09-29 (👨‍💻 680 · 🔀 2.1K · 📦 300K):
 
   ```
   git clone https://github.com/joke2k/faker
@@ -2994,7 +2994,7 @@ This curated list contains 400 awesome open-source projects with a total of 2.1M
 </details>
 <details><summary><b><a href="https://github.com/huggingface/datasets">Datasets</a></b> (🥇30 ·  ⭐ 22K) - The largest hub of ready-to-use datasets for AI models with fast,.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/huggingface/datasets) ⭐ 22,025 | 🐛 1,457 | 🌐 Python | 📅 2026-10-02 (👨‍💻 710 · 🔀 3.3K · 📦 130K):
+* [GitHub](https://github.com/huggingface/datasets) ⭐ 22,029 | 🐛 1,463 | 🌐 Python | 📅 2026-10-02 (👨‍💻 710 · 🔀 3.3K · 📦 130K):
 
   ```
   git clone https://github.com/huggingface/datasets
@@ -3011,7 +3011,7 @@ This curated list contains 400 awesome open-source projects with a total of 2.1M
 </details>
 <details><summary><b><a href="https://github.com/martinblech/xmltodict">xmltodict</a></b> (🥇27 ·  ⭐ 5.7K · 💤) - Python module that makes working with XML feel like you are.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/martinblech/xmltodict) ⭐ 5,760 | 🐛 7 | 🌐 Python | 📅 2026-08-19 (👨‍💻 60 · 🔀 470 · 📦 90K):
+* [GitHub](https://github.com/martinblech/xmltodict) ⭐ 5,758 | 🐛 7 | 🌐 Python | 📅 2026-08-19 (👨‍💻 60 · 🔀 470 · 📦 90K):
 
   ```
   git clone https://github.com/martinblech/xmltodict
@@ -3045,7 +3045,7 @@ This curated list contains 400 awesome open-source projects with a total of 2.1M
 </details>
 <details><summary><b><a href="https://github.com/xlwings/xlwings">xlwings</a></b> (🥇27 ·  ⭐ 3.4K) - xlwings is a Python library that makes it easy to call Python from.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-* [GitHub](https://github.com/xlwings/xlwings) ⭐ 3,412 | 🐛 368 | 🌐 Python | 📅 2026-09-27 (👨‍💻 69 · 🔀 540 · 📦 34K):
+* [GitHub](https://github.com/xlwings/xlwings) ⭐ 3,415 | 🐛 368 | 🌐 Python | 📅 2026-09-27 (👨‍💻 69 · 🔀 540 · 📦 34K):
 
   ```
   git clone https://github.com/xlwings/xlwings
@@ -3147,7 +3147,7 @@ This curated list contains 400 awesome open-source projects with a total of 2.1M
 </details>
 <details><summary><b><a href="https://github.com/wireservice/csvkit">csvkit</a></b> (🥈22 ·  ⭐ 6.4K) - A suite of utilities for converting to and working with CSV, the king of.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/wireservice/csvkit) ⭐ 6,415 | 🐛 46 | 🌐 Python | 📅 2026-09-21 (👨‍💻 120 · 🔀 670 · 📦 2K):
+* [GitHub](https://github.com/wireservice/csvkit) ⭐ 6,415 | 🐛 47 | 🌐 Python | 📅 2026-09-21 (👨‍💻 120 · 🔀 670 · 📦 2K):
 
   ```
   git clone https://github.com/wireservice/csvkit
@@ -3181,7 +3181,7 @@ This curated list contains 400 awesome open-source projects with a total of 2.1M
 </details>
 <details><summary><b><a href="https://github.com/camelot-dev/camelot">camelot</a></b> (🥉20 ·  ⭐ 3.8K) - A Python library to extract tabular data from PDFs. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/camelot-dev/camelot) ⭐ 3,839 | 🐛 55 | 🌐 Python | 📅 2026-09-19 (👨‍💻 80 · 🔀 550 · 📦 3.7K):
+* [GitHub](https://github.com/camelot-dev/camelot) ⭐ 3,839 | 🐛 56 | 🌐 Python | 📅 2026-09-19 (👨‍💻 80 · 🔀 550 · 📦 3.7K):
 
   ```
   git clone https://github.com/camelot-dev/camelot
@@ -3194,7 +3194,7 @@ This curated list contains 400 awesome open-source projects with a total of 2.1M
 </details>
 <details><summary><b><a href="https://github.com/rom1504/img2dataset">img2dataset</a></b> (🥉18 ·  ⭐ 4.2K · 💤) - Easily turn large sets of image urls to an image dataset. Can.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/rom1504/img2dataset) ⭐ 4,456 | 🐛 145 | 🌐 Python | 📅 2025-10-19 (👨‍💻 36 · 🔀 360 · 📦 290):
+* [GitHub](https://github.com/rom1504/img2dataset) ⭐ 4,457 | 🐛 145 | 🌐 Python | 📅 2025-10-19 (👨‍💻 36 · 🔀 360 · 📦 290):
 
   ```
   git clone https://github.com/rom1504/img2dataset
@@ -3275,7 +3275,7 @@ This curated list contains 400 awesome open-source projects with a total of 2.1M
 * <b>[deepdish](https://github.com/uchicago-cs/deepdish) ⭐ 274 | 🐛 23 | 🌐 Python | 📅 2024-05-29</b> (🥉19 ·  ⭐ 270 · 💀) - Flexible HDF5 saving/loading and other data science tools from the.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code>
 * <b>[tabulator-py](https://github.com/frictionlessdata/tabulator-py) ⚠️ Archived</b> (🥉21 ·  ⭐ 240 · 💀) - Python library for reading and writing tabular data via streams. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 * <b>[pdfmux](https://github.com/NameetP/pdfmux) ⭐ 82 | 🐛 6 | 🌐 Python | 📅 2026-10-02</b> (🥉11 ·  ⭐ 77) - PDF extraction that audits its own output and certifies any.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code>python</code> <code>pdf</code> <code>markdown</code>
-* <b>[Wayback-Archive](https://github.com/GeiserX/Wayback-Archive) ⭐ 39 | 🐛 1 | 🌐 Python | 📅 2026-10-03</b> (🥉7 ·  ⭐ 38 · 🐣) - Download complete websites from the Wayback Machine with.. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code>
+* <b>[Wayback-Archive](https://github.com/GeiserX/Wayback-Archive) ⭐ 39 | 🐛 0 | 🌐 Python | 📅 2026-10-03</b> (🥉7 ·  ⭐ 38 · 🐣) - Download complete websites from the Wayback Machine with.. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code>
 * <b>[Squirrel](https://github.com/merantix-momentum/squirrel-core)</b> (🥉10 ·  ⭐ 280 · 💀) - A Python library that enables ML teams to share, load, and.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
 
 </details>
@@ -3289,7 +3289,7 @@ This curated list contains 400 awesome open-source projects with a total of 2.1M
 
 <details><summary><b><a href="https://github.com/apache/airflow">Airflow</a></b> (🥇35 ·  ⭐ 48K) - Platform to programmatically author, schedule, and monitor workflows. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/apache/airflow) ⭐ 47,041 | 🐛 1,830 | 🌐 Python | 📅 2026-10-03 (👨‍💻 4.7K · 🔀 18K · 📦 20K):
+* [GitHub](https://github.com/apache/airflow) ⭐ 47,050 | 🐛 1,827 | 🌐 Python | 📅 2026-10-04 (👨‍💻 4.7K · 🔀 18K · 📦 20K):
 
   ```
   git clone https://github.com/apache/airflow
@@ -3310,7 +3310,7 @@ This curated list contains 400 awesome open-source projects with a total of 2.1M
 </details>
 <details><summary><b><a href="https://github.com/joblib/joblib">joblib</a></b> (🥇32 ·  ⭐ 4.4K) - Computing with Python functions. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-* [GitHub](https://github.com/joblib/joblib) ⭐ 4,399 | 🐛 432 | 🌐 Python | 📅 2026-10-02 (👨‍💻 160 · 🔀 490 · 📦 750K):
+* [GitHub](https://github.com/joblib/joblib) ⭐ 4,400 | 🐛 433 | 🌐 Python | 📅 2026-10-02 (👨‍💻 160 · 🔀 490 · 📦 750K):
 
   ```
   git clone https://github.com/joblib/joblib
@@ -3327,7 +3327,7 @@ This curated list contains 400 awesome open-source projects with a total of 2.1M
 </details>
 <details><summary><b><a href="https://github.com/celery/celery">Celery</a></b> (🥇31 ·  ⭐ 29K) - Asynchronous task queue/job queue based on distributed message passing. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-* [GitHub](https://github.com/celery/celery) ⭐ 28,929 | 🐛 732 | 🌐 Python | 📅 2026-10-03 (👨‍💻 1.6K · 🔀 5.2K · 📦 190K):
+* [GitHub](https://github.com/celery/celery) ⭐ 28,932 | 🐛 736 | 🌐 Python | 📅 2026-10-04 (👨‍💻 1.6K · 🔀 5.2K · 📦 190K):
 
   ```
   git clone https://github.com/celery/celery
@@ -3344,7 +3344,7 @@ This curated list contains 400 awesome open-source projects with a total of 2.1M
 </details>
 <details><summary><b><a href="https://github.com/PrefectHQ/prefect">Prefect</a></b> (🥇29 ·  ⭐ 24K) - Prefect is a workflow orchestration framework for building resilient.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/PrefectHQ/prefect) ⭐ 23,963 | 🐛 875 | 🌐 Python | 📅 2026-10-02 (👨‍💻 770 · 🔀 2.5K · 📦 8.5K):
+* [GitHub](https://github.com/PrefectHQ/prefect) ⭐ 23,966 | 🐛 880 | 🌐 Python | 📅 2026-10-03 (👨‍💻 770 · 🔀 2.5K · 📦 8.5K):
 
   ```
   git clone https://github.com/PrefectHQ/prefect
@@ -3361,7 +3361,7 @@ This curated list contains 400 awesome open-source projects with a total of 2.1M
 </details>
 <details><summary><b><a href="https://github.com/dagster-io/dagster">Dagster</a></b> (🥇29 ·  ⭐ 16K) - An orchestration platform for the development, production, and.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/dagster-io/dagster) ⭐ 16,232 | 🐛 2,577 | 🌐 Python | 📅 2026-10-03 (👨‍💻 700 · 🔀 2.3K · 📦 4.9K):
+* [GitHub](https://github.com/dagster-io/dagster) ⭐ 16,234 | 🐛 2,577 | 🌐 Python | 📅 2026-10-03 (👨‍💻 700 · 🔀 2.3K · 📦 4.9K):
 
   ```
   git clone https://github.com/dagster-io/dagster
@@ -3378,7 +3378,7 @@ This curated list contains 400 awesome open-source projects with a total of 2.1M
 </details>
 <details><summary><b><a href="https://github.com/rq/rq">rq</a></b> (🥇29 ·  ⭐ 11K) - Simple job queues for Python. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-* [GitHub](https://github.com/rq/rq) ⭐ 10,693 | 🐛 262 | 🌐 Python | 📅 2026-10-03 (👨‍💻 360 · 🔀 1.5K · 📦 22K):
+* [GitHub](https://github.com/rq/rq) ⭐ 10,692 | 🐛 262 | 🌐 Python | 📅 2026-10-03 (👨‍💻 360 · 🔀 1.5K · 📦 22K):
 
   ```
   git clone https://github.com/rq/rq
@@ -3395,7 +3395,7 @@ This curated list contains 400 awesome open-source projects with a total of 2.1M
 </details>
 <details><summary><b><a href="https://github.com/apache/beam">Beam</a></b> (🥇29 ·  ⭐ 8.7K) - Unified programming model to define and execute data processing.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/apache/beam) ⭐ 8,677 | 🐛 3,883 | 🌐 Java | 📅 2026-10-03 (👨‍💻 2K · 🔀 4.7K · 📦 9.9K):
+* [GitHub](https://github.com/apache/beam) ⭐ 8,677 | 🐛 3,887 | 🌐 Java | 📅 2026-10-04 (👨‍💻 2K · 🔀 4.7K · 📦 9.9K):
 
   ```
   git clone https://github.com/apache/beam
@@ -3412,7 +3412,7 @@ This curated list contains 400 awesome open-source projects with a total of 2.1M
 </details>
 <details><summary><b><a href="https://github.com/spotify/luigi">luigi</a></b> (🥈26 ·  ⭐ 19K) - Luigi is a Python module that helps you build complex pipelines of batch.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/spotify/luigi) ⭐ 18,779 | 🐛 178 | 🌐 Python | 📅 2026-07-18 (👨‍💻 640 · 🔀 2.5K · 📦 2.9K):
+* [GitHub](https://github.com/spotify/luigi) ⭐ 18,781 | 🐛 180 | 🌐 Python | 📅 2026-07-18 (👨‍💻 640 · 🔀 2.5K · 📦 2.9K):
 
   ```
   git clone https://github.com/spotify/luigi
@@ -3480,7 +3480,7 @@ This curated list contains 400 awesome open-source projects with a total of 2.1M
 </details>
 <details><summary><b><a href="https://github.com/kedro-org/kedro">Kedro</a></b> (🥈23 ·  ⭐ 11K) - Kedro is a toolbox for production-ready data science. It uses software.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/kedro-org/kedro) ⭐ 11,012 | 🐛 136 | 🌐 Python | 📅 2026-10-02 (👨‍💻 300 · 🔀 1.1K · 📦 3.3K):
+* [GitHub](https://github.com/kedro-org/kedro) ⭐ 11,013 | 🐛 136 | 🌐 Python | 📅 2026-10-02 (👨‍💻 300 · 🔀 1.1K · 📦 3.3K):
 
   ```
   git clone https://github.com/kedro-org/kedro
@@ -3527,7 +3527,7 @@ This curated list contains 400 awesome open-source projects with a total of 2.1M
 </details>
 <details><summary><b><a href="https://github.com/zenml-io/zenml">zenml</a></b> (🥈22 ·  ⭐ 5.6K) - ZenML : One AI Platform from Pipelines to Agents. https://zenml.io. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/zenml-io/zenml) ⭐ 5,601 | 🐛 170 | 🌐 Python | 📅 2026-10-02 (👨‍💻 160 · 🔀 660 · 📦 1.5K):
+* [GitHub](https://github.com/zenml-io/zenml) ⭐ 5,604 | 🐛 170 | 🌐 Python | 📅 2026-10-02 (👨‍💻 160 · 🔀 660 · 📦 1.5K):
 
   ```
   git clone https://github.com/zenml-io/zenml
@@ -3557,7 +3557,7 @@ This curated list contains 400 awesome open-source projects with a total of 2.1M
 </details>
 <details><summary><b><a href="https://github.com/cocoindex-io/cocoindex">CocoIndex</a></b> (🥉19 ·  ⭐ 6.1K) - Data transformation framework for AI. Ultra performant, with.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/cocoindex-io/cocoindex) ⭐ 11,642 | 🐛 103 | 🌐 Rust | 📅 2026-10-03 (👨‍💻 95 · 🔀 450 · 📦 75):
+* [GitHub](https://github.com/cocoindex-io/cocoindex) ⭐ 11,643 | 🐛 97 | 🌐 Rust | 📅 2026-10-04 (👨‍💻 95 · 🔀 450 · 📦 75):
 
   ```
   git clone https://github.com/cocoindex-io/cocoindex
@@ -3570,7 +3570,7 @@ This curated list contains 400 awesome open-source projects with a total of 2.1M
 </details>
 <details><summary><b><a href="https://github.com/nerevu/riko">riko</a></b> (🥉17 ·  ⭐ 1.6K) - A Python stream processing engine modeled after Yahoo! Pipes. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/nerevu/riko) ⭐ 1,608 | 🐛 25 | 🌐 Python | 📅 2026-10-03 (👨‍💻 25 · 🔀 75 · 📦 14):
+* [GitHub](https://github.com/nerevu/riko) ⭐ 1,608 | 🐛 25 | 🌐 Python | 📅 2026-10-04 (👨‍💻 25 · 🔀 75 · 📦 14):
 
   ```
   git clone https://github.com/nerevu/riko
@@ -3652,7 +3652,7 @@ This curated list contains 400 awesome open-source projects with a total of 2.1M
 </details>
 <details><summary>Show 21 hidden projects...</summary>
 
-* <b>[faust](https://github.com/robinhood/faust) ⭐ 6,824 | 🐛 280 | 🌐 Python | 📅 2024-07-27</b> (🥉19 ·  ⭐ 6.8K · 💀) - Python Stream Processing. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code>
+* <b>[faust](https://github.com/robinhood/faust) ⭐ 6,825 | 🐛 280 | 🌐 Python | 📅 2024-07-27</b> (🥉19 ·  ⭐ 6.8K · 💀) - Python Stream Processing. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code>
 * <b>[ploomber](https://github.com/ploomber/ploomber) ⚠️ Archived</b> (🥈23 ·  ⭐ 3.6K · 💀) - The fastest way to build data pipelines. Develop iteratively,.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
 * <b>[whylogs](https://github.com/whylabs/whylogs) ⭐ 2,835 | 🐛 4 | 🌐 Jupyter Notebook | 📅 2025-01-10</b> (🥉17 ·  ⭐ 2.8K · 💀) - Open standard for end-to-end data and ML monitoring for any.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
 * <b>[dpark](https://github.com/douban/dpark) ⚠️ Archived</b> (🥉15 ·  ⭐ 2.7K · 💀) - Python clone of Spark, a MapReduce alike framework in Python. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code> <code>spark</code>
@@ -3664,7 +3664,7 @@ This curated list contains 400 awesome open-source projects with a total of 2.1M
 * <b>[Pypeline](https://github.com/cgarciae/pypeln) ⭐ 1,598 | 🐛 35 | 🌐 Python | 📅 2023-07-20</b> (🥉17 ·  ⭐ 1.4K · 💀) - Concurrent data pipelines in Python . <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 * <b>[Optimus](https://github.com/hi-primus/optimus) ⭐ 1,535 | 🐛 30 | 🌐 Python | 📅 2024-12-02</b> (🥉14 ·  ⭐ 1.5K · 💀) - Agile Data Preparation Workflows madeeasy with Pandas,.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code>spark</code>
 * <b>[streamparse](https://github.com/Parsely/streamparse) ⭐ 1,504 | 🐛 61 | 🌐 Python | 📅 2026-04-22</b> (🥉15 ·  ⭐ 1.5K · 💀) - streamparse lets you run Python code against real-time.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
-* <b>[Botflow](https://github.com/kkyon/botflow) ⭐ 1,194 | 🐛 4 | 🌐 Python | 📅 2026-02-03</b> (🥉12 ·  ⭐ 740 · 💀) - Python Fast Data driven programming framework for Data pipeline.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code>
+* <b>[Botflow](https://github.com/kkyon/botflow) ⭐ 1,193 | 🐛 4 | 🌐 Python | 📅 2026-02-03</b> (🥉12 ·  ⭐ 740 · 💀) - Python Fast Data driven programming framework for Data pipeline.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code>
 * <b>[Databolt Flow](https://github.com/d6t/d6tflow) ⭐ 947 | 🐛 11 | 🌐 Python | 📅 2026-06-28</b> (🥉13 ·  ⭐ 950 · 💀) - Python library for building highly effective data science.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 * <b>[mrq](https://github.com/pricingassistant/mrq) ⭐ 892 | 🐛 63 | 🌐 Python | 📅 2023-06-13</b> (🥉14 ·  ⭐ 880 · 💀) - Mr. Queue - A distributed worker task queue in Python using Redis & gevent. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 * <b>[bodywork-core](https://github.com/bodywork-ml/bodywork-core) ⚠️ Archived</b> (🥉10 ·  ⭐ 430 · 💀) - ML pipeline orchestration and model deployments on.. <code><a href="http://bit.ly/3pwmjO5">❗️AGPL-3.0</a></code>
@@ -3770,7 +3770,7 @@ This curated list contains 400 awesome open-source projects with a total of 2.1M
 
 <details><summary><b><a href="https://github.com/more-itertools/more-itertools">more-itertools</a></b> (🥇31 ·  ⭐ 4.1K) - More routines for operating on iterables, beyond itertools. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/more-itertools/more-itertools) ⭐ 4,098 | 🐛 9 | 🌐 Python | 📅 2026-09-29 (👨‍💻 160 · 🔀 360 · 📦 300K):
+* [GitHub](https://github.com/more-itertools/more-itertools) ⭐ 4,098 | 🐛 8 | 🌐 Python | 📅 2026-09-29 (👨‍💻 160 · 🔀 360 · 📦 300K):
 
   ```
   git clone https://github.com/more-itertools/more-itertools
@@ -3787,7 +3787,7 @@ This curated list contains 400 awesome open-source projects with a total of 2.1M
 </details>
 <details><summary><b><a href="https://github.com/python-attrs/attrs">attrs</a></b> (🥇30 ·  ⭐ 5.8K · 💤) - Python Classes Without Boilerplate. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/python-attrs/attrs) ⭐ 5,849 | 🐛 167 | 🌐 Python | 📅 2026-10-01 (👨‍💻 190 · 🔀 420 · 📦 1.5M):
+* [GitHub](https://github.com/python-attrs/attrs) ⭐ 5,850 | 🐛 168 | 🌐 Python | 📅 2026-10-04 (👨‍💻 190 · 🔀 420 · 📦 1.5M):
 
   ```
   git clone https://github.com/python-attrs/attrs
@@ -3821,7 +3821,7 @@ This curated list contains 400 awesome open-source projects with a total of 2.1M
 </details>
 <details><summary><b><a href="https://github.com/mahmoud/boltons">boltons</a></b> (🥈27 ·  ⭐ 6.9K) - Like builtins, but boltons. 250+ constructs, recipes, and snippets.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-* [GitHub](https://github.com/mahmoud/boltons) ⭐ 6,933 | 🐛 112 | 🌐 Python | 📅 2026-09-23 (👨‍💻 120 · 🔀 450 · 📦 12K):
+* [GitHub](https://github.com/mahmoud/boltons) ⭐ 6,933 | 🐛 116 | 🌐 Python | 📅 2026-09-23 (👨‍💻 120 · 🔀 450 · 📦 12K):
 
   ```
   git clone https://github.com/mahmoud/boltons
@@ -3872,7 +3872,7 @@ This curated list contains 400 awesome open-source projects with a total of 2.1M
 </details>
 <details><summary><b><a href="https://github.com/dry-python/returns">returns</a></b> (🥉24 ·  ⭐ 4.3K) - Make your functions return something meaningful, typed, and safe!. <code><a href="http://bit.ly/3rqEWVr">BSD-2</a></code></summary>
 
-* [GitHub](https://github.com/dry-python/returns) ⭐ 4,373 | 🐛 81 | 🌐 Python | 📅 2026-10-02 (👨‍💻 74 · 🔀 150 · 📦 1.1K):
+* [GitHub](https://github.com/dry-python/returns) ⭐ 4,375 | 🐛 81 | 🌐 Python | 📅 2026-10-02 (👨‍💻 74 · 🔀 150 · 📦 1.1K):
 
   ```
   git clone https://github.com/dry-python/returns
@@ -3923,7 +3923,7 @@ This curated list contains 400 awesome open-source projects with a total of 2.1M
 </details>
 <details><summary>Show 6 hidden projects...</summary>
 
-* <b>[toolz](https://github.com/pytoolz/toolz) ⭐ 5,156 | 🐛 138 | 🌐 Python | 📅 2026-09-18</b> (🥈26 ·  ⭐ 5.1K · 💤) - A functional standard library for Python. <code>❗Unlicensed</code>
+* <b>[toolz](https://github.com/pytoolz/toolz) ⭐ 5,157 | 🐛 138 | 🌐 Python | 📅 2026-09-18</b> (🥈26 ·  ⭐ 5.1K · 💤) - A functional standard library for Python. <code>❗Unlicensed</code>
 * <b>[pampy](https://github.com/santinic/pampy) ⭐ 3,521 | 🐛 23 | 🌐 Python | 📅 2025-01-16</b> (🥉16 ·  ⭐ 3.5K · 💀) - Pampy: The Pattern Matching for Python you always dreamed of. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 * <b>[retrying](https://github.com/rholder/retrying) ⭐ 1,924 | 🐛 50 | 🌐 Python | 📅 2021-08-15</b> (🥉23 ·  ⭐ 1.9K · 💀) - Retrying is an Apache 2.0 licensed general-purpose retrying.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
 * <b>[CommonRegex](https://github.com/madisonmay/CommonRegex) ⭐ 1,581 | 🐛 22 | 🌐 Python | 📅 2023-04-20</b> (🥉16 ·  ⭐ 1.6K · 💀) - A collection of common regular expressions bundled with an easy.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
@@ -3939,7 +3939,7 @@ This curated list contains 400 awesome open-source projects with a total of 2.1M
 
 <details><summary><b><a href="https://github.com/python/cpython">cpython</a></b> (🥇34 ·  ⭐ 77K) - The Python programming language. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/python/cpython) ⭐ 77,410 | 🐛 9,749 | 🌐 Python | 📅 2026-10-03 (👨‍💻 4.1K · 🔀 37K · 📦 630K):
+* [GitHub](https://github.com/python/cpython) ⭐ 77,488 | 🐛 9,772 | 🌐 Python | 📅 2026-10-04 (👨‍💻 4.1K · 🔀 37K · 📦 630K):
 
   ```
   git clone https://github.com/python/cpython
@@ -3960,7 +3960,7 @@ This curated list contains 400 awesome open-source projects with a total of 2.1M
 </details>
 <details><summary><b><a href="https://github.com/micropython/micropython">micropython</a></b> (🥈21 ·  ⭐ 22K) - MicroPython - a lean and efficient Python implementation for.. <code><a href="http://bit.ly/35wkF7y">Python-2.0</a></code></summary>
 
-* [GitHub](https://github.com/micropython/micropython) ⭐ 22,106 | 🐛 1,532 | 🌐 C | 📅 2026-10-03 (👨‍💻 770 · 🔀 9K · 📦 23):
+* [GitHub](https://github.com/micropython/micropython) ⭐ 22,108 | 🐛 1,532 | 🌐 C | 📅 2026-10-03 (👨‍💻 770 · 🔀 9K · 📦 23):
 
   ```
   git clone https://github.com/micropython/micropython
@@ -3974,7 +3974,7 @@ This curated list contains 400 awesome open-source projects with a total of 2.1M
 <details><summary>Show 4 hidden projects...</summary>
 
 * <b>[grumpy](https://github.com/google/grumpy) ⚠️ Archived</b> (🥈17 ·  ⭐ 10K · 💀) - Grumpy is a Python to Go source code transcompiler and runtime. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
-* <b>[pyston](https://github.com/pyston/pyston) ⭐ 2,492 | 🐛 51 | 🌐 Python | 📅 2024-08-12</b> (🥉12 ·  ⭐ 2.5K · 💀) - (No longer maintained) A faster and highly-compatible.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+* <b>[pyston](https://github.com/pyston/pyston) ⭐ 2,491 | 🐛 51 | 🌐 Python | 📅 2024-08-12</b> (🥉12 ·  ⭐ 2.5K · 💀) - (No longer maintained) A faster and highly-compatible.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
 * <b>[stackless](https://github.com/stackless-dev/stackless) ⚠️ Archived</b> (🥉15 ·  ⭐ 1.1K · 💀) - The Stackless Python programming language. <code>❗Unlicensed</code>
 * <b>[cl-python](https://github.com/metawilm/cl-python) ⭐ 396 | 🐛 2 | 🌐 Common Lisp | 📅 2024-06-13</b> (🥉7 ·  ⭐ 240 · 💀) - An implementation of Python in Common Lisp. <code>❗Unlicensed</code>
 
@@ -3987,7 +3987,7 @@ This curated list contains 400 awesome open-source projects with a total of 2.1M
 
 <details><summary><b><a href="https://github.com/pygments/pygments">Pygments</a></b> (🥇32 ·  ⭐ 2.2K) - Pygments is a generic syntax highlighter written in Python. <code><a href="http://bit.ly/3rqEWVr">BSD-2</a></code></summary>
 
-* [GitHub](https://github.com/pygments/pygments) ⭐ 2,216 | 🐛 686 | 🌐 Python | 📅 2026-09-27 (👨‍💻 950 · 🔀 890 · 📦 1.2M):
+* [GitHub](https://github.com/pygments/pygments) ⭐ 2,215 | 🐛 687 | 🌐 Python | 📅 2026-09-27 (👨‍💻 950 · 🔀 890 · 📦 1.2M):
 
   ```
   git clone https://github.com/pygments/pygments
@@ -4004,7 +4004,7 @@ This curated list contains 400 awesome open-source projects with a total of 2.1M
 </details>
 <details><summary><b><a href="https://github.com/pyparsing/pyparsing">pyparsing</a></b> (🥇31 ·  ⭐ 2.5K) - Python library for creating PEG parsers. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/pyparsing/pyparsing) ⭐ 2,494 | 🐛 49 | 🌐 Python | 📅 2026-09-20 (👨‍💻 87 · 🔀 340 · 📦 1.3M):
+* [GitHub](https://github.com/pyparsing/pyparsing) ⭐ 2,494 | 🐛 51 | 🌐 Python | 📅 2026-09-20 (👨‍💻 87 · 🔀 340 · 📦 1.3M):
 
   ```
   git clone https://github.com/pyparsing/pyparsing
@@ -4038,7 +4038,7 @@ This curated list contains 400 awesome open-source projects with a total of 2.1M
 </details>
 <details><summary><b><a href="https://github.com/cookiecutter/cookiecutter">cookiecutter</a></b> (🥈28 ·  ⭐ 25K · 💤) - A cross-platform command-line utility that creates projects.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-* [GitHub](https://github.com/cookiecutter/cookiecutter) ⭐ 25,126 | 🐛 322 | 🌐 Python | 📅 2026-04-01 (👨‍💻 330 · 🔀 2.2K · 📦 38K):
+* [GitHub](https://github.com/cookiecutter/cookiecutter) ⭐ 25,128 | 🐛 322 | 🌐 Python | 📅 2026-04-01 (👨‍💻 330 · 🔀 2.2K · 📦 38K):
 
   ```
   git clone https://github.com/cookiecutter/cookiecutter
@@ -4089,7 +4089,7 @@ This curated list contains 400 awesome open-source projects with a total of 2.1M
 </details>
 <details><summary><b><a href="https://github.com/mingrammer/diagrams">diagrams</a></b> (🥈25 ·  ⭐ 42K) - Diagram as Code for prototyping cloud system architectures. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/mingrammer/diagrams) ⭐ 42,670 | 🐛 394 | 🌐 Python | 📅 2026-10-01 (👨‍💻 180 · 🔀 2.7K · 📦 2.5K):
+* [GitHub](https://github.com/mingrammer/diagrams) ⭐ 42,673 | 🐛 395 | 🌐 Python | 📅 2026-10-04 (👨‍💻 180 · 🔀 2.7K · 📦 2.5K):
 
   ```
   git clone https://github.com/mingrammer/diagrams
@@ -4140,7 +4140,7 @@ This curated list contains 400 awesome open-source projects with a total of 2.1M
 </details>
 <details><summary><b><a href="https://github.com/arsenetar/send2trash">Send2Trash</a></b> (🥉24 ·  ⭐ 300 · 💤) - Python library to natively send files to Trash (or Recycle bin).. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-* [GitHub](https://github.com/arsenetar/send2trash) ⭐ 314 | 🐛 42 | 🌐 Python | 📅 2026-06-16 (👨‍💻 20 · 🔀 47 · 📦 320K):
+* [GitHub](https://github.com/arsenetar/send2trash) ⭐ 315 | 🐛 42 | 🌐 Python | 📅 2026-06-16 (👨‍💻 20 · 🔀 47 · 📦 320K):
 
   ```
   git clone https://github.com/arsenetar/send2trash
@@ -4191,7 +4191,7 @@ This curated list contains 400 awesome open-source projects with a total of 2.1M
 </details>
 <details><summary><b><a href="https://github.com/copier-org/copier">Copier</a></b> (🥉21 ·  ⭐ 3.6K) - Library and command-line utility for rendering projects templates. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/copier-org/copier) ⭐ 3,611 | 🐛 145 | 🌐 Python | 📅 2026-09-30 (👨‍💻 130 · 🔀 270 · 📦 2.1K):
+* [GitHub](https://github.com/copier-org/copier) ⭐ 3,611 | 🐛 147 | 🌐 Python | 📅 2026-09-30 (👨‍💻 130 · 🔀 270 · 📦 2.1K):
 
   ```
   git clone https://github.com/copier-org/copier
@@ -4219,9 +4219,9 @@ This curated list contains 400 awesome open-source projects with a total of 2.1M
 
 ## Related Resources
 
-* [**awesome-python**](https://github.com/vinta/awesome-python) ⭐ 324,898 | 🐛 22 | 🌐 Python | 📅 2026-10-02: A curated list of awesome Python frameworks, libraries, software and resources.
+* [**awesome-python**](https://github.com/vinta/awesome-python) ⭐ 325,142 | 🐛 21 | 🌐 Python | 📅 2026-10-02: A curated list of awesome Python frameworks, libraries, software and resources.
 * [**best-of-ml-python**](https://github.com/ml-tooling/best-of-ml-python) ⭐ 23,841 | 🐛 58 | 📅 2026-10-01: A ranked list of awesome machine learning Python libraries.
-* [**best-of-web-python**](https://github.com/ml-tooling/best-of-web-python) ⭐ 2,761 | 🐛 21 | 📅 2026-10-01: A ranked list of awesome Python libraries for web development.
+* [**best-of-web-python**](https://github.com/ml-tooling/best-of-web-python) ⭐ 2,760 | 🐛 20 | 📅 2026-10-01: A ranked list of awesome Python libraries for web development.
 * [**best-of-python-dev**](https://github.com/ml-tooling/best-of-python-dev) ⭐ 1,310 | 🐛 33 | 🌐 Python | 📅 2026-10-01: A ranked list of awesome Python developer tools and libraries.
 * [**Best-of lists**](https://best-of.org): Discover other best-of lists with awesome open-source projects on all kinds of topics.
 
@@ -4229,12 +4229,12 @@ This curated list contains 400 awesome open-source projects with a total of 2.1M
 
 Contributions are encouraged and always welcome! If you like to add or update projects, choose one of the following ways:
 
-* Open an issue by selecting one of the provided categories from the [issue page](https://github.com/ml-tooling/best-of-python/issues/new/choose) ⭐ 4,616 | 🐛 51 | 📅 2026-10-01 and fill in the requested information.
-* Modify the [projects.yaml](https://github.com/ml-tooling/best-of-python/blob/main/projects.yaml) ⭐ 4,616 | 🐛 51 | 📅 2026-10-01 with your additions or changes, and submit a pull request. This can also be done directly via the [Github UI](https://github.com/ml-tooling/best-of-python/edit/main/projects.yaml) ⭐ 4,616 | 🐛 51 | 📅 2026-10-01.
+* Open an issue by selecting one of the provided categories from the [issue page](https://github.com/ml-tooling/best-of-python/issues/new/choose) ⭐ 4,617 | 🐛 52 | 📅 2026-10-01 and fill in the requested information.
+* Modify the [projects.yaml](https://github.com/ml-tooling/best-of-python/blob/main/projects.yaml) ⭐ 4,617 | 🐛 52 | 📅 2026-10-01 with your additions or changes, and submit a pull request. This can also be done directly via the [Github UI](https://github.com/ml-tooling/best-of-python/edit/main/projects.yaml) ⭐ 4,617 | 🐛 52 | 📅 2026-10-01.
 
 If you like to contribute to or share suggestions regarding the project metadata collection or markdown generation, please refer to the [best-of-generator](https://github.com/best-of-lists/best-of-generator) ⭐ 111 | 🐛 15 | 🌐 Python | 📅 2025-08-31 repository. If you like to create your own best-of list, we recommend to follow [this guide](https://github.com/best-of-lists/best-of/blob/main/create-best-of-list.md) ⭐ 1,901 | 🐛 25 | 📅 2026-10-02.
 
-For more information on how to add or update projects, please read the [contribution guidelines](https://github.com/ml-tooling/best-of-python/blob/main/CONTRIBUTING.md) ⭐ 4,616 | 🐛 51 | 📅 2026-10-01. By participating in this project, you agree to abide by its [Code of Conduct](https://github.com/ml-tooling/best-of-python/blob/main/.github/CODE_OF_CONDUCT.md) ⭐ 4,616 | 🐛 51 | 📅 2026-10-01.
+For more information on how to add or update projects, please read the [contribution guidelines](https://github.com/ml-tooling/best-of-python/blob/main/CONTRIBUTING.md) ⭐ 4,617 | 🐛 52 | 📅 2026-10-01. By participating in this project, you agree to abide by its [Code of Conduct](https://github.com/ml-tooling/best-of-python/blob/main/.github/CODE_OF_CONDUCT.md) ⭐ 4,617 | 🐛 52 | 📅 2026-10-01.
 
 ## License
 
@@ -4242,4 +4242,4 @@ For more information on how to add or update projects, please read the [contribu
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._
